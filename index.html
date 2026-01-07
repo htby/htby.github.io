@@ -1,36 +1,134 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 <head>
-  <title>畑邊康浩のプロフィール</title>
-  <link rel="stylesheet" href="stylesheet.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>畑邊康浩のプロフィール</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 60px 50px;
+            border-radius: 8px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 40px;
+            color: #2c3e50;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 15px;
+        }
+
+        h2 {
+            font-size: 1.4rem;
+            margin-top: 50px;
+            margin-bottom: 20px;
+            color: #34495e;
+            border-left: 4px solid #667eea;
+            padding-left: 12px;
+        }
+
+        p {
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        a {
+            color: #667eea;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+
+        .link-item {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+
+        .link-item strong {
+            color: #2c3e50;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 40px 30px;
+            }
+
+            h1 {
+                font-size: 1.6rem;
+            }
+
+            h2 {
+                font-size: 1.2rem;
+            }
+
+            body {
+                padding: 20px 15px;
+            }
+        }
+    </style>
 </head>
 <body>
+    <div class="container">
+        <h1>畑邊康浩のプロフィール</h1>
 
-<h1>畑邊康浩のプロフィール</h1>
+        <p>1974年、北海道・札幌生まれ。現在は東京・足立区在住。大学卒業後、印刷会社で版下フィニッシュのアルバイトを1年した後、語学系出版社へ入社、主に就職・転職ガイドブック（MOOK）の編集に丸8年携わりました。情報システム部へ異動となり、社内SEを2年ほど経験。その後、人材サービス会社へ転職し、転職情報サイトの編集に8年ほど従事しました。2016年1月から独立してフリーランスの編集者・ライターとして仕事をしています。</p>
 
-<div>1974年、北海道・札幌生まれ。現在は東京・足立区在住。大学卒業後、印刷会社で版下フィニッシュのアルバイトを1年した後、語学系出版社へ入社、主に就職・転職ガイドブック（MOOK）の編集に丸8年携わりました。情報システム部へ異動となり、社内SEを2年ほど経験。その後、人材サービス会社へ転職し、転職情報サイトの編集に8年ほど従事しました。2016年1月から独立してフリーランスの編集者・ライターとして仕事をしています。</div>
+        <h2>仕事関連</h2>
+        
+        <div class="link-item">
+            <strong><a href="https://textflood.tumblr.com">畑邊康浩の仕事（Tumblr）</a></strong><br>
+            私が編集を担当した記事＆書いた記事を置いてあります。
+        </div>
 
-<h2>仕事関連</h2>
+        <div class="link-item">
+            <a href="https://ki-to-oku.ghost.io/">記と憶 Ki to Oku</a><br>
+            記憶・記録・再生をめぐる個人メディアを運営しています。
+        </div>
 
-<p><a href="https://textflood.tumblr.com" target="_blank"><b>畑邊康浩の仕事（Tumblr）</b></a><br><small>私が編集を担当した記事＆書いた記事を置いてあります。</small></p>
-<p><a href="https://ki-to-oku.ghost.io/" target="_blank">記と憶 Ki to Oku</a><br><small>記憶・記録・再生をめぐる個人メディアを運営しています。</small></p>
+        <h2>SNS・ブログ</h2>
 
-<h2>SNS・ブログ</h2>
+        <div class="link-item">
+            <strong>Mastodon: <a href="https://mastodon.social/@htby">@htby@mastodon.social</a></strong><br>
+            メインで使っているSNSです。仕事関係もプライベートも投稿します。
+        </div>
 
-<p><b>Mastodon:&nbsp;<a href="https://mastodon.social/@htby" target="_blank">@htby@mastodon.social</a></b><br>
-<small>メインで使っているSNSです。仕事関係もプライベートも投稿します。</small></p>
+        <div class="link-item">
+            <strong>Bluesky: <a href="https://bsky.app/profile/htby.bsky.social">@htby.bsky.social</a></strong><br>
+            XでFF関係の人でBlueskyに移った人を中心にフォローしています。
+        </div>
 
-<p><b>Bluesky:&nbsp;<a href="https://bsky.app/profile/htby.bsky.social" target="_blank">@htby.bsky.social</a></b><br>
-<small>XでFF関係の人でBlueskyに移った人を中心にフォローしています。</small></p>
+        <div class="link-item">
+            <strong>X: <a href="https://x.com/htby_bot">@htby_bot</a></strong><br>
+            MastodonにもBlueskyにもいない人（知人、仕事関係、動きを追っておきたいアカウント）を中心にフォローしています。過去に取材した方や応援している方の発信をリポストすることもあります。
+        </div>
 
-<p><b>X:&nbsp;<a href="https://x.com/htby_bot" target="_blank">@htby_bot</a></b><br>
-<small>MastodonにもBlueskyにもいない人（知人、仕事関係、動きを追っておきたいアカウント）を中心にフォローしています。過去に取材した方や応援している方の発信をリポストすることもあります。</small></p>
-
-<p><b>ブログ:&nbsp;<a href="https://htby.posthaven.com/" target="_blank">htby's garden</a></b><br>
-<small>ライフログです。Posthavenというサービスを使っており、私の死後はアーカイブモードに移行してデジタル墓標として半永久的に残るらしいです。</small></p>
-
+        <div class="link-item">
+            <strong>ブログ: <a href="https://htby.posthaven.com/">htby's garden</a></strong><br>
+            ライフログです。Posthavenというサービスを使っており、私の死後はアーカイブモードに移行してデジタル墓標として半永久的に残るらしいです。
+        </div>
+    </div>
 </body>
 </html>
