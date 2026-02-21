@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "9cc97134cd54ad23",
+    "type": "split",
+    "children": [
+      {
+        "id": "79ee8430e51ea0f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61c56ad9dbd9b0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/hello-weak-robot-has-arrived.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hello-weak-robot-has-arrived"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d3d12eaefa2ae60",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f63e9a9e4e6a384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7037bf1dc12a9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "354b079640e4006e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "3b973c021f5b5601",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95fa5a1f86b66151",
+    "type": "split",
+    "children": [
+      {
+        "id": "b79fd80d1d1f7f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf937487304ec5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/hello-weak-robot-has-arrived.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "hello-weak-robot-has-arrivedへのバックリンク"
+            }
+          },
+          {
+            "id": "2cf13d282a12bfde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/hello-weak-robot-has-arrived.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "hello-weak-robot-has-arrivedからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "8049b2a705b811d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "09e34c3b36747abb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "426ffd68f0c1a89a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/hello-weak-robot-has-arrived.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "hello-weak-robot-has-arrivedのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "61c56ad9dbd9b0cd",
+  "lastOpenFiles": [
+    "medium_PXL_20251221_003548216.jpg",
+    "notes/無題のファイル.md",
+    "posts/hello-weak-robot-has-arrived.md"
+  ]
+}
