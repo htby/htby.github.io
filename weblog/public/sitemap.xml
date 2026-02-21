@@ -11,6 +11,12 @@
     <loc>http://localhost:1313/weblog/notes/familyname/</loc>
     <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weblog/posts/hello-weak-robot-has-arrived/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/posts/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/weblog/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/weblog/graph/</loc>

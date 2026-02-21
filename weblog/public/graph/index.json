@@ -3,6 +3,10 @@
     "/weblog/notes/familyname/": {
       "in": [],
       "out": []
+    },
+    "/weblog/posts/hello-weak-robot-has-arrived/": {
+      "in": [],
+      "out": []
     }
   },
   "pages": {
@@ -10,6 +14,11 @@
       "permalink": "/weblog/notes/familyname/",
       "section": "notes",
       "title": "旧姓単記と選択的夫婦別姓についてのメモ"
+    },
+    "/weblog/posts/hello-weak-robot-has-arrived/": {
+      "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
+      "section": "posts",
+      "title": "『こんにちは 弱いロボット』が届いた"
     }
   }
 }
