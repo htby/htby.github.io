@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -32,11 +30,18 @@ jobs:
         run: cd weblog && ln -s themes/hugo-til/node_modules node_modules
 
       - name: Build weblog
-        run: cd weblog && hugo --minify
+        run: cd weblog && hugo --minify --destination ../public/weblog
+
+      - name: Copy root files
+        run: |
+          cp index.html public/
+          cp stylesheet.css public/
+          cp htbyprof.png public/
+          cp README.md public/
+          cp .nojekyll public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          exclude_assets: '.github,weblog'
+          publish_dir: ./public
