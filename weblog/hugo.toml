@@ -1,0 +1,7 @@
+baseURL = 'https://htby.github.io/weblog/'
+languageCode = 'ja'
+title = "htby's garden"
+theme = 'hugo-til'
+
+[author]
+  name = '畑邊康浩'
