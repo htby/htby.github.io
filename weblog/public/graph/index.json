@@ -1,4 +1,15 @@
 {
-  "graph": {},
-  "pages": {}
+  "graph": {
+    "/weblog/notes/familyname/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/weblog/notes/familyname/": {
+      "permalink": "/weblog/notes/familyname/",
+      "section": "notes",
+      "title": "旧姓単記と選択的夫婦別姓についてのメモ"
+    }
+  }
 }

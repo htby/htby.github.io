@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/weblog/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/notes/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/notes/familyname/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/weblog/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/weblog/graph/</loc>
-  </url><url>
-    <loc>http://localhost:1313/weblog/</loc>
   </url><url>
     <loc>http://localhost:1313/weblog/tags/</loc>
   </url>
