@@ -12,7 +12,7 @@ title = '映画『Let’s Play Two』を観た'
 
 「Let’s Play Two」は「2試合やろうぜ」の意味で、シカゴ出身で根っからのカブスファンであるEddie Vedderが、元カブスで殿堂入りのメジャーリーガーであるErnie Banksの声掛けによってつくった応援歌「All The Way」の歌詞の一節のようだ。
 
-[Eddie Vedder — Someday We’ll Go All The Way Lyrics | Genius Lyrics](https://genius.com/Eddie-vedder-someday-well-go-all-the-way-lyrics "Link: https://genius.com/Eddie-vedder-someday-well-go-all-the-way-lyrics")
+[Eddie Vedder — Someday We’ll Go All The Way Lyrics | Genius Lyrics](https://genius.com/Eddie-vedder-someday-well-go-all-the-way-lyrics)
 
 この作品は、2016年8月にシカゴ・カブスのホームスタジアムであるリグレー・フィールドで行われたライブを収録したものであり、映画作品というよりはミュージックビデオを映画館でも上映した、という感じだ。
 
@@ -23,3 +23,15 @@ title = '映画『Let’s Play Two』を観た'
 映像はステージからスタジアムのせり上がった観客席を見渡したり見上げたりしたカットも多く、迫力があった。映画館なのでしっかり爆音だし。BD買ってしまうかもしれない。
 
 若い頃あんなに暴れん坊だったEddieが、少年みたいでかわいかった。
+
+以下、「Let’s play two」関連の公式Youtube動画。
+
+{{< youtube k2eiV4IM7tw >}}
+
+{{< youtube aFQe4TOR8_o >}}
+
+{{< youtube B85SIjDZ_Jw >}}
+
+{{< youtube 5w6NIotycQM >}}
+
+{{< youtube ZI3HyeULUfI >}}
