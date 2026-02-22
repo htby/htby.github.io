@@ -27,15 +27,11 @@ title = '映画『Let’s Play Two』を観た'
 以下、「Let’s play two」関連の公式Youtube動画。
 
 {{< youtube k2eiV4IM7tw >}}
-
-
+　
 {{< youtube aFQe4TOR8_o >}}
-
-
+　
 {{< youtube B85SIjDZ_Jw >}}
-
-
+　
 {{< youtube 5w6NIotycQM >}}
-
-
+　
 {{< youtube ZI3HyeULUfI >}}
