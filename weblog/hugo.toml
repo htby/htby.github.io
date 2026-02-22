@@ -19,6 +19,10 @@ theme = 'hugo-til'
   # Show content graph for single notes and posts.
   # Default: true
   showGraph = true
+  
+  # Author details for the JSON-LD structured data.
+  [params.author]
+    name = 'Yasuhiro Hatabe'
 
   # Homepage setup
   [params.home]
