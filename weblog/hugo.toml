@@ -5,3 +5,7 @@ theme = 'hugo-til'
 
 [author]
   name = '畑邊康浩'
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-5NH117CD2L"
