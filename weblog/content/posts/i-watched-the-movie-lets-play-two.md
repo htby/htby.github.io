@@ -8,7 +8,7 @@ title = '映画『Let’s Play Two』を観た'
 
 <!--more-->
 
-{{< iQWbKqFVoeQ >}}
+{{< youtube iQWbKqFVoeQ >}}
 
 「Let’s Play Two」は「2試合やろうぜ」の意味で、シカゴ出身で根っからのカブスファンであるEddie Vedderが、元カブスで殿堂入りのメジャーリーガーであるErnie Banksの声掛けによってつくった応援歌「All The Way」の歌詞の一節のようだ。
 
