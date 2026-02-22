@@ -28,10 +28,14 @@ title = '映画『Let’s Play Two』を観た'
 
 {{< youtube k2eiV4IM7tw >}}
 
+
 {{< youtube aFQe4TOR8_o >}}
+
 
 {{< youtube B85SIjDZ_Jw >}}
 
+
 {{< youtube 5w6NIotycQM >}}
+
 
 {{< youtube ZI3HyeULUfI >}}
