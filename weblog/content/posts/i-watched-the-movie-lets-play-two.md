@@ -2,8 +2,7 @@
 date = '2017-12-03'
 draft = false
 title = '映画『Let’s Play Two』を観た'
-categories:
-- 映画
+categories = ["映画"]
 +++
 
 新宿ピカデリーでPearl Jamのライブドキュメンタリー「Let’s Play Two」が上映されたので観に行ってきた。

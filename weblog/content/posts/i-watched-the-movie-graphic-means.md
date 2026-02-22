@@ -2,8 +2,7 @@
 date = '2017-10-29'
 draft = false
 title = '映画『Graphic Means』を観た'
-categories:
-- 映画
+categories = ["映画"]
 +++
 
 「Graphic Means: A History of Graphic Design Production」という映画の上映会があり、行ってきた。
