@@ -1,24 +1,123 @@
 {
   "graph": {
-    "/weblog/notes/familyname/": {
+    "/weblog/notes/complex-backgrounds-and-challenges-depending-on-country-of-origin/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/notes/prime-minister-shigeru-ishiba-announces-his-viewsvon-thev80th-anniversary-of-the-end-of-the-war/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/notes/read-lets-stop-talking-about-japans-birth-rate/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/dos-v-blues/": {
       "in": [],
       "out": []
     },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-started-my-own-media-ki-to-oku/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-watched-the-movie-graphic-means/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-watched-the-movie-lets-play-two/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/ojisan-and-obasan/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/the-negative-side-of-positive-thinking/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/they-have-aged-well-and-become-good-actors/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/writing-example-university-of-tokyo-campus-newsletter-no1599/": {
       "in": [],
       "out": []
     }
   },
   "pages": {
-    "/weblog/notes/familyname/": {
-      "permalink": "/weblog/notes/familyname/",
+    "/weblog/notes/complex-backgrounds-and-challenges-depending-on-country-of-origin/": {
+      "permalink": "/weblog/notes/complex-backgrounds-and-challenges-depending-on-country-of-origin/",
+      "section": "notes",
+      "title": "日本の難民問題、出身国別の複雑な背景と課題"
+    },
+    "/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/": {
+      "permalink": "/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/",
       "section": "notes",
       "title": "旧姓単記と選択的夫婦別姓についてのメモ"
+    },
+    "/weblog/notes/prime-minister-shigeru-ishiba-announces-his-viewsvon-thev80th-anniversary-of-the-end-of-the-war/": {
+      "permalink": "/weblog/notes/prime-minister-shigeru-ishiba-announces-his-viewsvon-thev80th-anniversary-of-the-end-of-the-war/",
+      "section": "notes",
+      "title": "石破茂首相が戦後80年見解を発表"
+    },
+    "/weblog/notes/read-lets-stop-talking-about-japans-birth-rate/": {
+      "permalink": "/weblog/notes/read-lets-stop-talking-about-japans-birth-rate/",
+      "section": "notes",
+      "title": "「日本の出生率の話はもうやめよう」を読んで"
+    },
+    "/weblog/posts/dos-v-blues/": {
+      "permalink": "/weblog/posts/dos-v-blues/",
+      "section": "posts",
+      "title": "DOS/Vブルース"
     },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
       "section": "posts",
       "title": "『こんにちは 弱いロボット』が届いた"
+    },
+    "/weblog/posts/i-started-my-own-media-ki-to-oku/": {
+      "permalink": "/weblog/posts/i-started-my-own-media-ki-to-oku/",
+      "section": "posts",
+      "title": "自分のメディア『記と憶 Ki to Oku』を始めた"
+    },
+    "/weblog/posts/i-watched-the-movie-graphic-means/": {
+      "permalink": "/weblog/posts/i-watched-the-movie-graphic-means/",
+      "section": "posts",
+      "title": "映画『Graphic Means』を観た"
+    },
+    "/weblog/posts/i-watched-the-movie-lets-play-two/": {
+      "permalink": "/weblog/posts/i-watched-the-movie-lets-play-two/",
+      "section": "posts",
+      "title": "映画『Let’s Play Two』を観た"
+    },
+    "/weblog/posts/ojisan-and-obasan/": {
+      "permalink": "/weblog/posts/ojisan-and-obasan/",
+      "section": "posts",
+      "title": "おじさんとかおばさんとか"
+    },
+    "/weblog/posts/the-negative-side-of-positive-thinking/": {
+      "permalink": "/weblog/posts/the-negative-side-of-positive-thinking/",
+      "section": "posts",
+      "title": "ポジティブな思考のネガティブな側面"
+    },
+    "/weblog/posts/they-have-aged-well-and-become-good-actors/": {
+      "permalink": "/weblog/posts/they-have-aged-well-and-become-good-actors/",
+      "section": "posts",
+      "title": "いい歳になっていい俳優になった"
+    },
+    "/weblog/posts/writing-example-university-of-tokyo-campus-newsletter-no1599/": {
+      "permalink": "/weblog/posts/writing-example-university-of-tokyo-campus-newsletter-no1599/",
+      "section": "posts",
+      "title": "文章の手本：東京大学 学内広報 NO.1599　淡青評論 第1184回「AIを引っ提げてやってきた大学院生」"
     }
   }
 }

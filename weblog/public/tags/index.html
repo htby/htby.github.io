@@ -10,6 +10,7 @@
 <title>
     Tags | htby&#39;s garden
 </title>
+  <meta name="author" content="map[name:Yasuhiro Hatabe]" />
 <meta property="og:url" content="http://localhost:1313/weblog/tags/">
   <meta property="og:site_name" content="htby&#39;s garden">
   <meta property="og:title" content="Tags">
@@ -29,11 +30,29 @@
 
       <script src="/weblog/js/main.js" defer></script>
   
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-5NH117CD2L"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-5NH117CD2L');
+        }
+      </script>
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
+  "author": {
+    "@type": "Person",
+    "name": "Yasuhiro Hatabe"
+  },
   "description": "",
   "headline": "Tags"
 }
