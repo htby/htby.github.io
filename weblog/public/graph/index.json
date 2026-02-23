@@ -40,6 +40,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/kan-has-passed-away/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/ojisan-and-obasan/": {
       "in": [],
       "out": []
@@ -107,6 +111,11 @@
       "permalink": "/weblog/posts/i-watched-the-movie-lets-play-two/",
       "section": "posts",
       "title": "映画『Let’s Play Two』を観た"
+    },
+    "/weblog/posts/kan-has-passed-away/": {
+      "permalink": "/weblog/posts/kan-has-passed-away/",
+      "section": "posts",
+      "title": "KANさんが逝ってしまった"
     },
     "/weblog/posts/ojisan-and-obasan/": {
       "permalink": "/weblog/posts/ojisan-and-obasan/",

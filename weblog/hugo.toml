@@ -69,3 +69,6 @@ copyright = 'Yasuhiro Hatabe'
     # Show a credit link to the Today I Learned theme in the footer.
     # Default: true
     showThemeCredit = true
+
+[markup.goldmark.renderer]
+  unsafe = true
