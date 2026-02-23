@@ -7,7 +7,7 @@ categories = ["映画"]
 
 <!--more-->
 
-{{< figure src="/weblog/images/twilightwarriors1.png” >}}
+{{< figure src="/weblog/images/twilightwarriors1.png" >}}
 
 柏のキネマ旬報シアターで映画[『トワイライト・ウォリアーズ 決戦！九龍城砦』](https://klockworx.com/movies/twilightwarriors/ "Link: https://klockworx.com/movies/twilightwarriors/")を観てきた。「面白いらしい」という以外の事前情報は全くない状態で観たおかげか、かなり楽しめた。見せたいものがはっきりしている映画はいいね。2時間超えだったし、肩に力が入って疲れた…。あとやっぱり刃物は苦手。
 
