@@ -2,13 +2,14 @@
 date = '2025-12-22'
 draft = false
 title = '『こんにちは 弱いロボット』が届いた'
+categories = ["本・雑誌"]
 +++
 
 『こんにちは 弱いロボット』（作：岡田美智男／絵：早川世詩男）が届きました。
 
 <!--more-->
 
-![書影](/weblog/images/medium_PXL_20251221_003548216.jpg)
+{{< figure src="/weblog/images/medium_PXL_20251221_003548216.jpg" >}}
 
 絵本と聞いていたので子ども向けだろうと思っていましたが、AI・ロボットが強さを競う時代に「弱さ」を実装することの利点がしっかり描かれていて、弱いロボットのことを比較的よく知っている自分にも読みごたえがありました。絵も、岡田先生やICD-LABのゆるい（失礼）雰囲気がよく出ていると思います。
 
@@ -17,4 +18,4 @@ title = '『こんにちは 弱いロボット』が届いた'
 私もこの記事の写真（中神慶亮さん撮影）を気に入っていたので、こうして本という別の形でのこせる機会をいただけて、よかったなと思います。  
 
 豊橋技術科学大学ICD-LAB「弱いロボット」に学ぶものづくりのアイデアのヒント  
-[https://htby.posthaven.com/fabcross-20210924-weakrobot](https://htby.posthaven.com/fabcross-20210924-weakrobot "Link: https://htby.posthaven.com/fabcross-20210924-weakrobot")
+[https://htby.github.io/weblog/posts/fabcross-20210924-weakrobot/]({{< ref "posts/fabcross-20210924-weakrobot" >}})

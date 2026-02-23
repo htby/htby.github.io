@@ -2,13 +2,14 @@
 date = '2020-05-04'
 draft = false
 title = 'DOS/Vブルース'
+categories = ["本・雑誌"]
 +++
 
 Facebookでブックカバーチャレンジが回ってきてしまったので1冊だけアップした。少し手直しして残しておく次第。
 
 <!--more-->
 
-![書影](/weblog/images/DOSVblues.png)
+{{< figure src="/weblog/images/DOSVblues.png" >}}
 
 鮎川誠の著作、『DOS/Vブルース』（1997年／幻冬舎刊）。もちろんシーナ&ザ・ロケッツの、である。[学生援護会『Salida』のCM](https://youtu.be/hBZH6Ozc73I)で「職業選択の自由 アハハン」とやっていたあのシナロケの（←この本とはあまり関係ない）だ。
 
@@ -46,4 +47,4 @@ Facebookでブックカバーチャレンジが回ってきてしまったので
 
 鮎川誠さんがTwitterで引用リツイートしてくれた。今となっては思い出深すぎるのでここにアップして保存しておく。
 
-![ツイート](/weblog/images/medium_IMG_2385.jpg)
+{{< figure src="/weblog/images/medium_IMG_2385.jpg" >}}
