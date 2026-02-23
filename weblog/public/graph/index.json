@@ -24,6 +24,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "in": [],
       "out": []
@@ -41,6 +45,10 @@
       "out": []
     },
     "/weblog/posts/i-watched-the-movie-lets-play-two/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-watched-the-movie-twilight-of-the-warriors-walled-in/": {
       "in": [],
       "out": []
     },
@@ -112,6 +120,11 @@
       "section": "posts",
       "title": "豊橋技術科学大学ICD-LAB「弱いロボット」に学ぶものづくりのアイデアのヒント"
     },
+    "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/": {
+      "permalink": "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/",
+      "section": "posts",
+      "title": "「Fabcross」「fabcross Forエンジニア」サイト閉鎖"
+    },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
       "section": "posts",
@@ -136,6 +149,11 @@
       "permalink": "/weblog/posts/i-watched-the-movie-lets-play-two/",
       "section": "posts",
       "title": "映画『Let’s Play Two』を観た"
+    },
+    "/weblog/posts/i-watched-the-movie-twilight-of-the-warriors-walled-in/": {
+      "permalink": "/weblog/posts/i-watched-the-movie-twilight-of-the-warriors-walled-in/",
+      "section": "posts",
+      "title": "映画『トワイライト・ウォリアーズ 決戦！九龍城砦』を観た"
     },
     "/weblog/posts/kan-christmas-song/": {
       "permalink": "/weblog/posts/kan-christmas-song/",

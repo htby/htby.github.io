@@ -7,13 +7,34 @@
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Yasuhiro Hatabe</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/weblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>夫婦別姓</title>
+      <link>http://localhost:1313/weblog/categories/%E5%A4%AB%E5%A9%A6%E5%88%A5%E5%A7%93/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E5%A4%AB%E5%A9%A6%E5%88%A5%E5%A7%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>戦</title>
+      <link>http://localhost:1313/weblog/categories/%E6%88%A6/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E6%88%A6/</guid>
+      <description></description>
+    </item>
     <item>
       <title>本・雑誌</title>
       <link>http://localhost:1313/weblog/categories/%E6%9C%AC%E9%9B%91%E8%AA%8C/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/weblog/categories/%E6%9C%AC%E9%9B%91%E8%AA%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>戦争</title>
+      <link>http://localhost:1313/weblog/categories/%E6%88%A6%E4%BA%89/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E6%88%A6%E4%BA%89/</guid>
       <description></description>
     </item>
     <item>
@@ -28,6 +49,13 @@
       <link>http://localhost:1313/weblog/categories/%E5%82%99%E5%BF%98/</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/weblog/categories/%E5%82%99%E5%BF%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>外国人</title>
+      <link>http://localhost:1313/weblog/categories/%E5%A4%96%E5%9B%BD%E4%BA%BA/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E5%A4%96%E5%9B%BD%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
@@ -47,8 +75,15 @@
     <item>
       <title>Fabcross</title>
       <link>http://localhost:1313/weblog/categories/fabcross/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/weblog/categories/fabcross/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>労働</title>
+      <link>http://localhost:1313/weblog/categories/%E5%8A%B4%E5%83%8D/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E5%8A%B4%E5%83%8D/</guid>
       <description></description>
     </item>
     <item>
@@ -56,6 +91,27 @@
       <link>http://localhost:1313/weblog/categories/%E8%BF%BD%E6%82%BC/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/weblog/categories/%E8%BF%BD%E6%82%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>せんそ</title>
+      <link>http://localhost:1313/weblog/categories/%E3%81%9B%E3%82%93%E3%81%9D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E3%81%9B%E3%82%93%E3%81%9D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ふうふべ</title>
+      <link>http://localhost:1313/weblog/categories/%E3%81%B5%E3%81%86%E3%81%B5%E3%81%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E3%81%B5%E3%81%86%E3%81%B5%E3%81%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>夫婦</title>
+      <link>http://localhost:1313/weblog/categories/%E5%A4%AB%E5%A9%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E5%A4%AB%E5%A9%A6/</guid>
       <description></description>
     </item>
   </channel>
