@@ -2,7 +2,7 @@
 date = '2020-05-04'
 draft = false
 title = 'KANさんが逝ってしまった'
-categories = ["音楽"]
+categories = ["追悼"]
 +++
 
 <!--more-->

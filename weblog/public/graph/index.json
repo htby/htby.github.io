@@ -32,6 +32,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/i-watched-the-movie-ghost-in-the-shell-sac-2045-the-last-human/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/i-watched-the-movie-graphic-means/": {
       "in": [],
       "out": []
@@ -40,7 +44,23 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/kan-christmas-song/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/kan-has-passed-away/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/memories-of-kiri/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/mental-attitude/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/nanoripe-15th-anniversary-live-show-mizuno-monsho/": {
       "in": [],
       "out": []
     },
@@ -102,6 +122,11 @@
       "section": "posts",
       "title": "自分のメディア『記と憶 Ki to Oku』を始めた"
     },
+    "/weblog/posts/i-watched-the-movie-ghost-in-the-shell-sac-2045-the-last-human/": {
+      "permalink": "/weblog/posts/i-watched-the-movie-ghost-in-the-shell-sac-2045-the-last-human/",
+      "section": "posts",
+      "title": "映画『攻殻機動隊 SAC_2045 最後の人間』を観た"
+    },
     "/weblog/posts/i-watched-the-movie-graphic-means/": {
       "permalink": "/weblog/posts/i-watched-the-movie-graphic-means/",
       "section": "posts",
@@ -112,10 +137,30 @@
       "section": "posts",
       "title": "映画『Let’s Play Two』を観た"
     },
+    "/weblog/posts/kan-christmas-song/": {
+      "permalink": "/weblog/posts/kan-christmas-song/",
+      "section": "posts",
+      "title": "KANさんのクリスマスソング"
+    },
     "/weblog/posts/kan-has-passed-away/": {
       "permalink": "/weblog/posts/kan-has-passed-away/",
       "section": "posts",
       "title": "KANさんが逝ってしまった"
+    },
+    "/weblog/posts/memories-of-kiri/": {
+      "permalink": "/weblog/posts/memories-of-kiri/",
+      "section": "posts",
+      "title": "桐との思い出の写真"
+    },
+    "/weblog/posts/mental-attitude/": {
+      "permalink": "/weblog/posts/mental-attitude/",
+      "section": "posts",
+      "title": "心がけ"
+    },
+    "/weblog/posts/nanoripe-15th-anniversary-live-show-mizuno-monsho/": {
+      "permalink": "/weblog/posts/nanoripe-15th-anniversary-live-show-mizuno-monsho/",
+      "section": "posts",
+      "title": "Nano.RIPEのデビュー15周年ライブ「みずのもんしょう」へ行ってきた"
     },
     "/weblog/posts/ojisan-and-obasan/": {
       "permalink": "/weblog/posts/ojisan-and-obasan/",
