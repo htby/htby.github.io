@@ -5,9 +5,9 @@ title = '映画『Graphic Means』を観た'
 categories = ["映画"]
 +++
 
-「Graphic Means: A History of Graphic Design Production」という映画の上映会があり、行ってきた。
-
 <!--more-->
+
+「Graphic Means: A History of Graphic Design Production」という映画の上映会があり、行ってきた。
 
 1950年代の、活字を一文字ずつ箱に詰めて版を組んで印刷していたころから、90年代にDTPが登場して、製版前のすべてがコンピューターで扱える「情報」になった時代までのデザイン・印刷テクノロジーの変遷をたどるドキュメンタリー。
 

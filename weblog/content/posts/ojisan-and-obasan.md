@@ -4,9 +4,9 @@ draft = false
 title = 'おじさんとかおばさんとか'
 +++
 
-とある記事を読んで、「価値観のリバイス」という言い方は確かにいいな、実態に近いなと思った。
-
 <!--more-->
+
+とある記事を読んで、「価値観のリバイス」という言い方は確かにいいな、実態に近いなと思った。
 
 「価値観のアップデート」と進歩史観 | The HEADLINE
 [https://www.theheadline.jp/articles/392](https://www.theheadline.jp/articles/392)

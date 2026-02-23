@@ -5,9 +5,9 @@ title = 'DOS/Vブルース'
 categories = ["本・雑誌"]
 +++
 
-Facebookでブックカバーチャレンジが回ってきてしまったので1冊だけアップした。少し手直しして残しておく次第。
-
 <!--more-->
+
+Facebookでブックカバーチャレンジが回ってきてしまったので1冊だけアップした。少し手直しして残しておく次第。
 
 {{< figure src="/weblog/images/DOSVblues.png" >}}
 
