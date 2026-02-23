@@ -2,6 +2,7 @@ baseURL = 'https://htby.github.io/weblog/'
 languageCode = 'ja'
 title = "htby's garden"
 theme = 'hugo-til'
+copyright = 'Yasuhiro Hatabe'
 
 [author]
   name = '畑邊康浩'
@@ -10,6 +11,11 @@ theme = 'hugo-til'
   [services.googleAnalytics]
     ID = "G-5NH117CD2L"
 
+[outputs]
+  home = ['html']
+  section = ['html', 'rss', 'json']
+  page = ['html']
+  
 [params]
   # Set how dates should appear across the site.
   # For format options, visit https://gohugo.io/functions/time/format/

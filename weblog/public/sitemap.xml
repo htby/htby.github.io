@@ -17,7 +17,13 @@
     <loc>http://localhost:1313/weblog/posts/hello-weak-robot-has-arrived/</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weblog/categories/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/weblog/posts/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/categories/%E6%9C%AC%E9%9B%91%E8%AA%8C/</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/posts/i-started-my-own-media-ki-to-oku/</loc>
@@ -35,6 +41,12 @@
     <loc>http://localhost:1313/weblog/notes/complex-backgrounds-and-challenges-depending-on-country-of-origin/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weblog/categories/fabcross/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/posts/fabcross-20210924-weakrobot/</loc>
+    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/weblog/posts/ojisan-and-obasan/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -43,9 +55,6 @@
   </url><url>
     <loc>http://localhost:1313/weblog/posts/the-negative-side-of-positive-thinking/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/weblog/categories/</loc>
-    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/categories/%E6%98%A0%E7%94%BB/</loc>
     <lastmod>2017-12-03T00:00:00+00:00</lastmod>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/complex-backgrounds-and-challenges-depending-on-country-of-origin.md",
+                "file": "posts/hello-weak-robot-has-arrived.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "complex-backgrounds-and-challenges-depending-on-country-of-origin"
+              "title": "hello-weak-robot-has-arrived"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a7037bf1dc12a9c",
+  "active": "61c56ad9dbd9b0cd",
   "lastOpenFiles": [
+    "notes/complex-backgrounds-and-challenges-depending-on-country-of-origin.md",
     "notes/maiden-name-only-and-optional-separate-surnames-for-married-couples.md",
     "notes/prime-minister-shigeru-ishiba-announces-his-viewsvon-thev80th-anniversary-of-the-end-of-the-war.md",
     "notes/read-lets-stop-talking-about-Japans-birth-rate.md",
@@ -199,7 +200,6 @@
     "posts/hello-weak-robot-has-arrived.md",
     "posts/fabcross-20210924-weakrobot.md",
     "無題のファイル.md",
-    "notes/complex-backgrounds-and-challenges-depending-on-country-of-origin.md",
     "medium_PXL_20251221_003548216.jpg"
   ]
 }

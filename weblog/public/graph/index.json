@@ -20,6 +20,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/fabcross-20210924-weakrobot/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "in": [],
       "out": []
@@ -78,6 +82,11 @@
       "permalink": "/weblog/posts/dos-v-blues/",
       "section": "posts",
       "title": "DOS/Vブルース"
+    },
+    "/weblog/posts/fabcross-20210924-weakrobot/": {
+      "permalink": "/weblog/posts/fabcross-20210924-weakrobot/",
+      "section": "posts",
+      "title": "豊橋技術科学大学ICD-LAB「弱いロボット」に学ぶものづくりのアイデアのヒント"
     },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
