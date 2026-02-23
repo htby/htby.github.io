@@ -19,4 +19,4 @@ categories = ["本・雑誌"]
 
 [豊橋技術科学大学ICD-LAB「弱いロボット」に学ぶものづくりのアイデアのヒント](/weblog/posts/fabcross-20210924-weakrobot/)
 
-[https://htby.github.io/weblog/posts/fabcross-20210924-weakrobot/]({{< ref "posts/fabcross-20210924-weakrobot" >}})
+[豊橋技術科学大学ICD-LAB「弱いロボット」に学ぶものづくりのアイデアのヒント]({{< ref "posts/fabcross-20210924-weakrobot" >}})
