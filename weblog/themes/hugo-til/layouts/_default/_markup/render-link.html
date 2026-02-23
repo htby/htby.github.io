@@ -2,6 +2,10 @@
 {{- $isInternal := and (not (strings.HasPrefix $url "http")) (not (strings.HasPrefix $url "mailto")) -}}
 {{- if $isInternal -}}
   {{- $target := .Page.Site.GetPage $url -}}
+  {{- if not $target -}}
+    {{- $trimmed := strings.TrimPrefix "/weblog" $url -}}
+    {{- $target = .Page.Site.GetPage $trimmed -}}
+  {{- end -}}
   {{- if $target -}}
     {{- .Page.Scratch.Add "outgoing" (slice $target) -}}
     {{- $target.Scratch.Add "incoming" (slice .Page) -}}
