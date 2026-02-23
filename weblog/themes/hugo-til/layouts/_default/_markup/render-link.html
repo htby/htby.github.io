@@ -1,0 +1,10 @@
+{{- $url := .Destination -}}
+{{- $isInternal := and (not (strings.HasPrefix $url "http")) (not (strings.HasPrefix $url "mailto")) -}}
+{{- if $isInternal -}}
+  {{- $target := .Page.Site.GetPage $url -}}
+  {{- if $target -}}
+    {{- .Page.Scratch.Add "outgoing" (slice $target) -}}
+    {{- $target.Scratch.Add "incoming" (slice .Page) -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $url | safeURL }}"{{- with .Title }} title="{{ . }}"{{ end -}}{{- if not $isInternal }} target="_blank" rel="noopener"{{ end -}}>{{ .Text | safeHTML }}</a>
