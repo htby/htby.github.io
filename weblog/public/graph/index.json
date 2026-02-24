@@ -20,6 +20,14 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/a-blog-that-will-remain-after-death/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/century-keyboard/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/dos-v-blues/": {
       "in": [],
       "out": []
@@ -32,6 +40,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "in": [],
       "out": []
@@ -40,7 +52,15 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/i-saw-the-revival-of-the-movie-chungking-express/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/i-started-my-own-media-ki-to-oku/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-voted-for-takahiro-anno-in-the-2024-tokyo-gubernatorial-election/": {
       "in": [],
       "out": []
     },
@@ -56,7 +76,23 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/i-watched-the-movie-lost-and-found/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-watched-the-movie-the-colors-within/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/i-watched-the-movie-twilight-of-the-warriors-walled-in/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-went-to-the-kameari-south-exit-branch-of-dosanko-for-the-first-time/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/its-been-a-long-time-since-my-usual-information-gathering-process-was-disrupted/": {
       "in": [],
       "out": []
     },
@@ -65,6 +101,14 @@
       "out": []
     },
     "/weblog/posts/kan-has-passed-away/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/kiri-has-passed-away/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/magazines-are-free/": {
       "in": [],
       "out": []
     },
@@ -80,7 +124,19 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/new-years-day-2025-kiri-is-not-there/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/ojisan-and-obasan/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/tanaka-atsuko-has-passed-away/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/": {
       "in": [],
       "out": []
     },
@@ -89,6 +145,14 @@
       "out": []
     },
     "/weblog/posts/they-have-aged-well-and-become-good-actors/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/tony-leung-and-faye-wong/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/usb2bt-plus/": {
       "in": [],
       "out": []
     },
@@ -123,6 +187,16 @@
       "section": "notes",
       "title": "「日本の出生率の話はもうやめよう」を読んで"
     },
+    "/weblog/posts/a-blog-that-will-remain-after-death/": {
+      "permalink": "/weblog/posts/a-blog-that-will-remain-after-death/",
+      "section": "posts",
+      "title": "死後も残るブログ"
+    },
+    "/weblog/posts/century-keyboard/": {
+      "permalink": "/weblog/posts/century-keyboard/",
+      "section": "posts",
+      "title": "センチュリーのキーボード"
+    },
     "/weblog/posts/dos-v-blues/": {
       "permalink": "/weblog/posts/dos-v-blues/",
       "section": "posts",
@@ -138,6 +212,11 @@
       "section": "posts",
       "title": "「Fabcross」「fabcross Forエンジニア」サイト閉鎖"
     },
+    "/weblog/posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf/": {
+      "permalink": "/weblog/posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf/",
+      "section": "posts",
+      "title": "2024年の初詣は江戸前エルフにちなんで住吉神社へ"
+    },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
       "section": "posts",
@@ -148,10 +227,20 @@
       "section": "posts",
       "title": "『AI白書2025 生成AIエディション』が届いた"
     },
+    "/weblog/posts/i-saw-the-revival-of-the-movie-chungking-express/": {
+      "permalink": "/weblog/posts/i-saw-the-revival-of-the-movie-chungking-express/",
+      "section": "posts",
+      "title": "映画『恋する惑星』のリバイバルを観た"
+    },
     "/weblog/posts/i-started-my-own-media-ki-to-oku/": {
       "permalink": "/weblog/posts/i-started-my-own-media-ki-to-oku/",
       "section": "posts",
       "title": "自分のメディア『記と憶 Ki to Oku』を始めた"
+    },
+    "/weblog/posts/i-voted-for-takahiro-anno-in-the-2024-tokyo-gubernatorial-election/": {
+      "permalink": "/weblog/posts/i-voted-for-takahiro-anno-in-the-2024-tokyo-gubernatorial-election/",
+      "section": "posts",
+      "title": "東京都知事選2024　安野たかひろさんに投票した"
     },
     "/weblog/posts/i-watched-the-movie-ghost-in-the-shell-sac-2045-the-last-human/": {
       "permalink": "/weblog/posts/i-watched-the-movie-ghost-in-the-shell-sac-2045-the-last-human/",
@@ -168,10 +257,30 @@
       "section": "posts",
       "title": "映画『Let’s Play Two』を観た"
     },
+    "/weblog/posts/i-watched-the-movie-lost-and-found/": {
+      "permalink": "/weblog/posts/i-watched-the-movie-lost-and-found/",
+      "section": "posts",
+      "title": "映画『世界の涯てに』を観た"
+    },
+    "/weblog/posts/i-watched-the-movie-the-colors-within/": {
+      "permalink": "/weblog/posts/i-watched-the-movie-the-colors-within/",
+      "section": "posts",
+      "title": "映画『きみの色』を観た"
+    },
     "/weblog/posts/i-watched-the-movie-twilight-of-the-warriors-walled-in/": {
       "permalink": "/weblog/posts/i-watched-the-movie-twilight-of-the-warriors-walled-in/",
       "section": "posts",
       "title": "映画『トワイライト・ウォリアーズ 決戦！九龍城砦』を観た"
+    },
+    "/weblog/posts/i-went-to-the-kameari-south-exit-branch-of-dosanko-for-the-first-time/": {
+      "permalink": "/weblog/posts/i-went-to-the-kameari-south-exit-branch-of-dosanko-for-the-first-time/",
+      "section": "posts",
+      "title": "「どさん子」亀有南口店に初めて入った"
+    },
+    "/weblog/posts/its-been-a-long-time-since-my-usual-information-gathering-process-was-disrupted/": {
+      "permalink": "/weblog/posts/its-been-a-long-time-since-my-usual-information-gathering-process-was-disrupted/",
+      "section": "posts",
+      "title": "普段の情報収集フローが崩れて久しい"
     },
     "/weblog/posts/kan-christmas-song/": {
       "permalink": "/weblog/posts/kan-christmas-song/",
@@ -182,6 +291,16 @@
       "permalink": "/weblog/posts/kan-has-passed-away/",
       "section": "posts",
       "title": "KANさんが逝ってしまった"
+    },
+    "/weblog/posts/kiri-has-passed-away/": {
+      "permalink": "/weblog/posts/kiri-has-passed-away/",
+      "section": "posts",
+      "title": "桐が旅立った"
+    },
+    "/weblog/posts/magazines-are-free/": {
+      "permalink": "/weblog/posts/magazines-are-free/",
+      "section": "posts",
+      "title": "雑誌は自由"
     },
     "/weblog/posts/memories-of-kiri/": {
       "permalink": "/weblog/posts/memories-of-kiri/",
@@ -198,10 +317,25 @@
       "section": "posts",
       "title": "Nano.RIPEのデビュー15周年ライブ「みずのもんしょう」へ行ってきた"
     },
+    "/weblog/posts/new-years-day-2025-kiri-is-not-there/": {
+      "permalink": "/weblog/posts/new-years-day-2025-kiri-is-not-there/",
+      "section": "posts",
+      "title": "2025年の正月、桐がいない"
+    },
     "/weblog/posts/ojisan-and-obasan/": {
       "permalink": "/weblog/posts/ojisan-and-obasan/",
       "section": "posts",
       "title": "おじさんとかおばさんとか"
+    },
+    "/weblog/posts/tanaka-atsuko-has-passed-away/": {
+      "permalink": "/weblog/posts/tanaka-atsuko-has-passed-away/",
+      "section": "posts",
+      "title": "田中敦子さんが逝ってしまった"
+    },
+    "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/": {
+      "permalink": "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/",
+      "section": "posts",
+      "title": "『セクシー田中さん』の漫画家・芦原妃名子さんが亡くなったこと"
     },
     "/weblog/posts/the-negative-side-of-positive-thinking/": {
       "permalink": "/weblog/posts/the-negative-side-of-positive-thinking/",
@@ -212,6 +346,16 @@
       "permalink": "/weblog/posts/they-have-aged-well-and-become-good-actors/",
       "section": "posts",
       "title": "いい歳になっていい俳優になった"
+    },
+    "/weblog/posts/tony-leung-and-faye-wong/": {
+      "permalink": "/weblog/posts/tony-leung-and-faye-wong/",
+      "section": "posts",
+      "title": "トニー・レオンとフェイ・ウォン"
+    },
+    "/weblog/posts/usb2bt-plus/": {
+      "permalink": "/weblog/posts/usb2bt-plus/",
+      "section": "posts",
+      "title": "USB2BT+"
     },
     "/weblog/posts/writing-example-university-of-tokyo-campus-newsletter-no1599/": {
       "permalink": "/weblog/posts/writing-example-university-of-tokyo-campus-newsletter-no1599/",

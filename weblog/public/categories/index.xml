@@ -135,54 +135,5 @@
       <guid>http://localhost:1313/weblog/categories/%E9%81%B8%E6%8C%99/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Si</title>
-      <link>http://localhost:1313/weblog/categories/si/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/si/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>しごｔ</title>
-      <link>http://localhost:1313/weblog/categories/%E3%81%97%E3%81%94%EF%BD%94/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/%E3%81%97%E3%81%94%EF%BD%94/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>タレ</title>
-      <link>http://localhost:1313/weblog/categories/%E3%82%BF%E3%83%AC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/%E3%82%BF%E3%83%AC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>タレント</title>
-      <link>http://localhost:1313/weblog/categories/%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ついっとう</title>
-      <link>http://localhost:1313/weblog/categories/%E3%81%A4%E3%81%84%E3%81%A3%E3%81%A8%E3%81%86/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/%E3%81%A4%E3%81%84%E3%81%A3%E3%81%A8%E3%81%86/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>レビュー</title>
-      <link>http://localhost:1313/weblog/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>本・ｚ</title>
-      <link>http://localhost:1313/weblog/categories/%E6%9C%AC%EF%BD%9A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/%E6%9C%AC%EF%BD%9A/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
