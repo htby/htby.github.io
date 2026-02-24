@@ -4,6 +4,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/notes/history-of-the-worker-dispatch-law/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/": {
       "in": [],
       "out": []
@@ -29,6 +33,10 @@
       "out": []
     },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/i-received-the-ai-white-paper-2025-generative-ai-edition/": {
       "in": [],
       "out": []
     },
@@ -95,6 +103,11 @@
       "section": "notes",
       "title": "日本の難民問題、出身国別の複雑な背景と課題"
     },
+    "/weblog/notes/history-of-the-worker-dispatch-law/": {
+      "permalink": "/weblog/notes/history-of-the-worker-dispatch-law/",
+      "section": "notes",
+      "title": "いずれスキマバイト村ができるかもしれない"
+    },
     "/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/": {
       "permalink": "/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/",
       "section": "notes",
@@ -129,6 +142,11 @@
       "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
       "section": "posts",
       "title": "『こんにちは 弱いロボット』が届いた"
+    },
+    "/weblog/posts/i-received-the-ai-white-paper-2025-generative-ai-edition/": {
+      "permalink": "/weblog/posts/i-received-the-ai-white-paper-2025-generative-ai-edition/",
+      "section": "posts",
+      "title": "『AI白書2025 生成AIエディション』が届いた"
     },
     "/weblog/posts/i-started-my-own-media-ki-to-oku/": {
       "permalink": "/weblog/posts/i-started-my-own-media-ki-to-oku/",
