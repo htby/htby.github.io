@@ -143,6 +143,9 @@
     <loc>http://localhost:1313/weblog/categories/%E8%BF%BD%E6%82%BC/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weblog/posts/fabcross-20240711-iruka/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/weblog/posts/century-keyboard/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -188,8 +191,12 @@
     <loc>http://localhost:1313/weblog/posts/i-watched-the-movie-graphic-means/</loc>
     <lastmod>2017-10-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weblog/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/weblog/graph/</loc>
   </url><url>
     <loc>http://localhost:1313/weblog/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/weblog/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</loc>
   </url>
 </urlset>

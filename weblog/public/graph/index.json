@@ -36,6 +36,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/fabcross-20240711-iruka/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/": {
       "in": [],
       "out": []
@@ -206,6 +210,11 @@
       "permalink": "/weblog/posts/fabcross-20210924-weakrobot/",
       "section": "posts",
       "title": "豊橋技術科学大学ICD-LAB「弱いロボット」に学ぶものづくりのアイデアのヒント"
+    },
+    "/weblog/posts/fabcross-20240711-iruka/": {
+      "permalink": "/weblog/posts/fabcross-20240711-iruka/",
+      "section": "posts",
+      "title": "東京発、世界へ——折りたたみ自転車「iruka」創業者のこだわりを実現したプロダクトデザインの軌跡"
     },
     "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/": {
       "permalink": "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/",

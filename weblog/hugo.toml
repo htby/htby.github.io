@@ -11,6 +11,24 @@ copyright = 'Yasuhiro Hatabe'
   [services.googleAnalytics]
     ID = "G-5NH117CD2L"
 
+[menus]
+  [[menus.main]]
+    name = 'Notes'
+    pageRef = '/notes'
+    weight = 20
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 30
+  [[menus.main]]
+    name = 'Graph'
+    pageRef = '/graph'
+    weight = 40
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 50
+
 [outputs]
   home = ['html']
   section = ['html', 'rss', 'json']
