@@ -13,21 +13,17 @@ copyright = 'Yasuhiro Hatabe'
 
 [menus]
   [[menus.main]]
-    name = 'Notes'
-    pageRef = '/notes'
-    weight = 20
-  [[menus.main]]
     name = 'Posts'
     pageRef = '/posts'
-    weight = 30
+    weight = 20
   [[menus.main]]
-    name = 'Graph'
-    pageRef = '/graph'
-    weight = 40
+    name = 'Notes'
+    pageRef = '/notes'
+    weight = 30
   [[menus.main]]
     name = 'About'
     pageRef = '/about'
-    weight = 50
+    weight = 40
 
 [outputs]
   home = ['html']
