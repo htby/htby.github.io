@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "posts/fabcross-20230628-ashirase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "fabcross-20230628-ashirase"
             }
           }
         ],
@@ -200,8 +200,10 @@
   },
   "active": "e5eeca095c6538a0",
   "lastOpenFiles": [
-    "posts/fabcross-20240711-iruka.md",
+    "posts/fabcross-20231130-choko-zai.md",
+    "posts/fabcross-20230628-ashirase.md",
     "about.md",
+    "posts/fabcross-20240711-iruka.md",
     "posts/fabcross-20210924-weakrobot.md",
     "posts/i-watched-the-movie-ghost-in-the-shell-sac-2045-the-last-human.md",
     "posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf.md",
@@ -224,8 +226,6 @@
     "posts/i-received-the-ai-white-paper-2025-generative-ai-edition.md",
     "notes/history-of-the-worker-dispatch-law.md",
     "notes/complex-backgrounds-and-challenges-depending-on-country-of-origin.md",
-    "notes/prime-minister-shigeru-ishiba-announces-his-viewsvon-thev80th-anniversary-of-the-end-of-the-war.md",
-    "notes/maiden-name-only-and-optional-separate-surnames-for-married-couples.md",
     "medium_PXL_20251221_003548216.jpg"
   ]
 }
