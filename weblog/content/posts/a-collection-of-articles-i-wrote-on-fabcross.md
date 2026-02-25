@@ -4,7 +4,6 @@ draft = false
 title = 'fabcrossで書いた記事まとめ'
 categories = ["fabcross", "仕事"]
 description = "2025年3月末「fabcross」運営終了に伴い、自分が書いた記事をアーカイブとして転載しました。このページはそのまとめです。"
-images = ["/weblog/images/fabcross_lexxpluss/LexxPluss_1_dmln5300000o3huw.jpg"]
 +++
 
 <!--more-->
