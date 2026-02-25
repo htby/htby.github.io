@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb31f4016721ec00",
+        "id": "04504d3622db7a67",
         "type": "tabs",
         "children": [
           {
-            "id": "0dad68fd4bcf793b",
+            "id": "bb0c62c9d14dcd9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "posts/fabcross-20210209-lexxpluss.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "fabcross-20210209-lexxpluss"
             }
           }
         ]
@@ -179,13 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "0dad68fd4bcf793b",
+  "active": "bb0c62c9d14dcd9a",
   "lastOpenFiles": [
-    "posts/fabcross-20230628-ashirase.md",
+    "posts/fabcross-20210422-kenrobotech.md",
     "posts/fabcross-20240711-iruka.md",
     "posts/fabcross-20231130-choko-zai.md",
-    "about.md",
+    "posts/fabcross-20230628-ashirase.md",
+    "posts/fabcross-20230307-sustee.md",
+    "posts/fabcross-20230215-qolo.md",
+    "posts/fabcross-20221214-b-and-plus.md",
+    "posts/fabcross-20220921-tegumii.md",
+    "posts/fabcross-20220502-cogy.md",
+    "posts/fabcross-20211111-origami.md",
     "posts/fabcross-20210924-weakrobot.md",
+    "posts/fabcross-20210209-lexxpluss.md",
+    "about.md",
     "posts/i-watched-the-movie-ghost-in-the-shell-sac-2045-the-last-human.md",
     "posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf.md",
     "posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san.md",
@@ -199,14 +211,6 @@
     "posts/magazines-are-free.md",
     "posts/kiri-has-passed-away.md",
     "posts/new-years-day-2025-kiri-is-not-there.md",
-    "posts/usb2bt-plus.md",
-    "posts/i-went-to-the-kameari-south-exit-branch-of-dosanko-for-the-first-time.md",
-    "notes/read-lets-stop-talking-about-Japans-birth-rate.md",
-    "posts/i-watched-the-movie-lost-and-found.md",
-    "posts/its-been-a-long-time-since-my-usual-information-gathering-process-was-disrupted.md",
-    "posts/i-received-the-ai-white-paper-2025-generative-ai-edition.md",
-    "notes/history-of-the-worker-dispatch-law.md",
-    "notes/complex-backgrounds-and-challenges-depending-on-country-of-origin.md",
     "medium_PXL_20251221_003548216.jpg"
   ]
 }

@@ -36,6 +36,14 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/fabcross-20230628-ashirase/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/fabcross-20231130-choko-zai/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/fabcross-20240711-iruka/": {
       "in": [],
       "out": []
@@ -210,6 +218,16 @@
       "permalink": "/weblog/posts/fabcross-20210924-weakrobot/",
       "section": "posts",
       "title": "豊橋技術科学大学ICD-LAB「弱いロボット」に学ぶものづくりのアイデアのヒント"
+    },
+    "/weblog/posts/fabcross-20230628-ashirase/": {
+      "permalink": "/weblog/posts/fabcross-20230628-ashirase/",
+      "section": "posts",
+      "title": "振動で視覚障害者の歩行をサポートする「あしらせ」——ユーザーと共に作り上げる開発体制"
+    },
+    "/weblog/posts/fabcross-20231130-choko-zai/": {
+      "permalink": "/weblog/posts/fabcross-20231130-choko-zai/",
+      "section": "posts",
+      "title": "足立区の町工場発「端材」に命を吹き込む「チョコ・ザイ」がハンドメイド作家たちと出会った"
     },
     "/weblog/posts/fabcross-20240711-iruka/": {
       "permalink": "/weblog/posts/fabcross-20240711-iruka/",
