@@ -26,7 +26,21 @@
     },
     "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/": {
       "in": [],
-      "out": []
+      "out": [
+        "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/",
+        "/weblog/posts/fabcross-20240711-iruka/",
+        "/weblog/posts/fabcross-20231130-choko-zai/",
+        "/weblog/posts/fabcross-20230628-ashirase/",
+        "/weblog/posts/fabcross-20230307-sustee/",
+        "/weblog/posts/fabcross-20230215-qolo/",
+        "/weblog/posts/fabcross-20221214-b-and-plus/",
+        "/weblog/posts/fabcross-20220921-tegumii/",
+        "/weblog/posts/fabcross-20220502-cogy/",
+        "/weblog/posts/fabcross-20211111-origami/",
+        "/weblog/posts/fabcross-20210924-weakrobot/",
+        "/weblog/posts/fabcross-20210422-kenrobotech/",
+        "/weblog/posts/fabcross-20210209-lexxpluss/"
+      ]
     },
     "/weblog/posts/century-keyboard/": {
       "in": [],
@@ -37,55 +51,82 @@
       "out": []
     },
     "/weblog/posts/fabcross-20210209-lexxpluss/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20210422-kenrobotech/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20210924-weakrobot/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/hello-weak-robot-has-arrived/",
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20211111-origami/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20220502-cogy/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20220921-tegumii/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20221214-b-and-plus/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20230215-qolo/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20230307-sustee/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20230628-ashirase/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20231130-choko-zai/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-20240711-iruka/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/": {
-      "in": [],
+      "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+      ],
       "out": []
     },
     "/weblog/posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf/": {
@@ -94,7 +135,9 @@
     },
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "in": [],
-      "out": []
+      "out": [
+        "/weblog/posts/fabcross-20210924-weakrobot/"
+      ]
     },
     "/weblog/posts/i-received-the-ai-white-paper-2025-generative-ai-edition/": {
       "in": [],
