@@ -84,5 +84,7 @@ copyright = 'Yasuhiro Hatabe'
     # Default: true
     showThemeCredit = true
 
-[markup.goldmark.renderer]
-  unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
