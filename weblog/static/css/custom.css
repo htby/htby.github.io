@@ -1,4 +1,7 @@
-.prose a {
+.truncate {
+  overflow: visible;
+  text-overflow: clip;
+  white-space: normal;
   overflow-wrap: break-word;
   word-break: break-all;
 }
