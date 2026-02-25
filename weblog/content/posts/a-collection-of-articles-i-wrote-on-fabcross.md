@@ -8,7 +8,7 @@ description = "2025年3月末「fabcross」運営終了に伴い、自分が書�
 
 <!--more-->
 
-2025年3月末「fabcross」運営終了に伴い、自分が書いた記事をアーカイブとして転載しました。このページはそのまとめです。
+2025年3月末[「fabcross」運営終了](/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/)に伴い、自分が書いた記事をアーカイブとして転載しました。このページはそのまとめです。
 
 - [東京発、世界へ──折りたたみ自転車「iruka」創業者のこだわりを実現したプロダクトデザインの軌跡](/weblog/posts/fabcross-20240711-iruka/)
 - [足立区の町工場発「端材」に命を吹き込む「チョコ・ザイ」がハンドメイド作家たちと出会った](/weblog/posts/fabcross-20231130-choko-zai/)
