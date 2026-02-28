@@ -13,3 +13,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "LINE Seed JP", sans-serif;
 }
+
+.main h1 {
+  font-family: "Rationale", sans-serif;
+  /* 他にサイズや太さなども調整できます */
+}
+
+header a.font-semibold {
+  font-family: "Rationale", sans-serif;
+}
