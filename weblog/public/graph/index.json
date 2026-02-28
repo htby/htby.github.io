@@ -66,8 +66,8 @@
     },
     "/weblog/posts/fabcross-20210924-weakrobot/": {
       "in": [
-        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
-        "/weblog/posts/hello-weak-robot-has-arrived/"
+        "/weblog/posts/hello-weak-robot-has-arrived/",
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
