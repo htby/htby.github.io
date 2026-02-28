@@ -22,3 +22,8 @@ h1, h2, h3, h4, h5, h6 {
 header a.font-semibold {
   font-family: "Rationale", sans-serif;
 }
+
+.not-prose ol li h3 {
+  line-height: 1.5;
+  font-feature-settings: "palt" 1;
+}
