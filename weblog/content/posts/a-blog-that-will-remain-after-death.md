@@ -2,7 +2,7 @@
 date = '2024-02-07'
 draft = false
 title = '死後も残るブログ'
-categories = ["音楽"]
+categories = ["情報"]
 +++
 
 <!--more-->

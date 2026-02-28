@@ -44,6 +44,9 @@ copyright = 'Yasuhiro Hatabe'
   # Default: true
   showGraph = true
   
+  description = "ライフログ＆ワークログ"
+  images = ["/weblog/images/ogimage/washi1.jpg"]
+  
   # Author details for the JSON-LD structured data.
   [params.author]
     name = 'Yasuhiro Hatabe'

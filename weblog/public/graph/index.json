@@ -21,12 +21,28 @@
       "out": []
     },
     "/weblog/posts/a-blog-that-will-remain-after-death/": {
-      "in": [],
+      "in": [
+        "/weblog/i-moved-my-weblog-to-github-pages-hugo/",
+        "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/"
+      ],
       "out": []
     },
     "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/": {
       "in": [],
       "out": [
+        "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/",
+        "/weblog/posts/fabcross-20240711-iruka/",
+        "/weblog/posts/fabcross-20231130-choko-zai/",
+        "/weblog/posts/fabcross-20230628-ashirase/",
+        "/weblog/posts/fabcross-20230307-sustee/",
+        "/weblog/posts/fabcross-20230215-qolo/",
+        "/weblog/posts/fabcross-20221214-b-and-plus/",
+        "/weblog/posts/fabcross-20220921-tegumii/",
+        "/weblog/posts/fabcross-20220502-cogy/",
+        "/weblog/posts/fabcross-20211111-origami/",
+        "/weblog/posts/fabcross-20210924-weakrobot/",
+        "/weblog/posts/fabcross-20210422-kenrobotech/",
+        "/weblog/posts/fabcross-20210209-lexxpluss/",
         "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/",
         "/weblog/posts/fabcross-20240711-iruka/",
         "/weblog/posts/fabcross-20231130-choko-zai/",
@@ -52,12 +68,14 @@
     },
     "/weblog/posts/fabcross-20210209-lexxpluss/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20210422-kenrobotech/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
@@ -65,66 +83,78 @@
     "/weblog/posts/fabcross-20210924-weakrobot/": {
       "in": [
         "/weblog/posts/hello-weak-robot-has-arrived/",
-        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
+        "/weblog/posts/hello-weak-robot-has-arrived/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20211111-origami/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20220502-cogy/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20220921-tegumii/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20221214-b-and-plus/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20230215-qolo/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20230307-sustee/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20230628-ashirase/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20231130-choko-zai/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-20240711-iruka/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
     },
     "/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/": {
       "in": [
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
         "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
       ],
       "out": []
@@ -136,7 +166,14 @@
     "/weblog/posts/hello-weak-robot-has-arrived/": {
       "in": [],
       "out": [
+        "/weblog/posts/fabcross-20210924-weakrobot/",
         "/weblog/posts/fabcross-20210924-weakrobot/"
+      ]
+    },
+    "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/": {
+      "in": [],
+      "out": [
+        "/weblog/posts/a-blog-that-will-remain-after-death/"
       ]
     },
     "/weblog/posts/i-received-the-ai-white-paper-2025-generative-ai-edition/": {
@@ -372,6 +409,11 @@
       "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
       "section": "posts",
       "title": "『こんにちは 弱いロボット』が届いた"
+    },
+    "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/": {
+      "permalink": "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/",
+      "section": "posts",
+      "title": "ブログをGithub Pages + Hugoに移行した"
     },
     "/weblog/posts/i-received-the-ai-white-paper-2025-generative-ai-edition/": {
       "permalink": "/weblog/posts/i-received-the-ai-white-paper-2025-generative-ai-edition/",
