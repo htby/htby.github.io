@@ -25,6 +25,6 @@ header a.font-semibold {
 
 .not-prose ol li h3 {
   font-family: "Inter", "LINE Seed JP", sans-serif !important;
-  line-height: 1.5;
-  font-feature-settings: "palt" 1, "pkna" 1;
+  line-height: 1.5 !important;
+  font-feature-settings: "palt" 1, "pkna" 1 !important;
 }
