@@ -25,5 +25,5 @@ header a.font-semibold {
 
 .not-prose ol li h3 {
   line-height: 1.5;
-  font-feature-settings: "palt" 1;
+  font-feature-settings: "palt" 1, "pkna" 1;
 }
