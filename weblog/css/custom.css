@@ -6,25 +6,6 @@
   word-break: break-all;
 }
 
-body {
-  font-family: "IBM Plex Sans JP", sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Inter", "LINE Seed JP", sans-serif;
-}
-
-.main h1 {
-  font-family: "Rationale", sans-serif;
-  /* 他にサイズや太さなども調整できます */
-}
-
-header a.font-semibold {
-  font-family: "Rationale", sans-serif;
-}
-
 .not-prose ol li h3 {
-  font-family: "Inter", "LINE Seed JP", sans-serif !important;
-  line-height: 1.5 !important;
-  font-feature-settings: "palt" 1, "pkna" 1 !important;
+  line-height: 1.5;
 }
