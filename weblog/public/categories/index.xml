@@ -10,6 +10,13 @@
     <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/weblog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>仕事</title>
+      <link>http://localhost:1313/weblog/categories/%E4%BB%95%E4%BA%8B/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weblog/categories/%E4%BB%95%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>情報</title>
       <link>http://localhost:1313/weblog/categories/%E6%83%85%E5%A0%B1/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
@@ -84,13 +91,6 @@
       <link>http://localhost:1313/weblog/categories/fabcross/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/weblog/categories/fabcross/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>仕事</title>
-      <link>http://localhost:1313/weblog/categories/%E4%BB%95%E4%BA%8B/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weblog/categories/%E4%BB%95%E4%BA%8B/</guid>
       <description></description>
     </item>
     <item>

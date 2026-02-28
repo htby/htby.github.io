@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: mwsuj-nncyg
+created: 2026-03-01T01:15:53+09:00

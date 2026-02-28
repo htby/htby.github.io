@@ -24,10 +24,6 @@ copyright = 'Yasuhiro Hatabe'
     name = 'About'
     pageRef = '/about'
     weight = 40
-  [[menus.main]]
-    name = 'Graph'
-    pageRef = '/graph'
-    weight = 50
 
 [outputs]
   home = ['html']

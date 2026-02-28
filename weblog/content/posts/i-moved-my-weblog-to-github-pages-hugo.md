@@ -4,7 +4,6 @@ draft = false
 title = 'ブログをGithub Pages + Hugoに移行した'
 categories = ["情報"]
 images = ["/weblog/images/ogimage/washi1.jpg"]
-
 +++
 
 <!--more-->
