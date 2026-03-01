@@ -20,6 +20,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/10-years-since-opening/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/a-blog-that-will-remain-after-death/": {
       "in": [
         "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/"
@@ -235,6 +239,10 @@
       "in": [],
       "out": []
     },
+    "/weblog/posts/test/": {
+      "in": [],
+      "out": []
+    },
     "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/": {
       "in": [],
       "out": []
@@ -285,6 +293,11 @@
       "permalink": "/weblog/notes/read-lets-stop-talking-about-japans-birth-rate/",
       "section": "notes",
       "title": "「日本の出生率の話はもうやめよう」を読んで"
+    },
+    "/weblog/posts/10-years-since-opening/": {
+      "permalink": "/weblog/posts/10-years-since-opening/",
+      "section": "posts",
+      "title": "開業10年"
     },
     "/weblog/posts/a-blog-that-will-remain-after-death/": {
       "permalink": "/weblog/posts/a-blog-that-will-remain-after-death/",
@@ -495,6 +508,11 @@
       "permalink": "/weblog/posts/tanaka-atsuko-has-passed-away/",
       "section": "posts",
       "title": "田中敦子さんが逝ってしまった"
+    },
+    "/weblog/posts/test/": {
+      "permalink": "/weblog/posts/test/",
+      "section": "posts",
+      "title": "テスト投稿j"
     },
     "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/": {
       "permalink": "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/",

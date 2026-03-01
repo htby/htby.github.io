@@ -1,0 +1,11 @@
+.truncate {
+  overflow: visible;
+  text-overflow: clip;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: break-all;
+}
+
+.not-prose ol li h3 {
+  line-height: 1.5;
+}

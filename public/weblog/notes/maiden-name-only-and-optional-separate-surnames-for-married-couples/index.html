@@ -1,0 +1,429 @@
+<!doctype html>
+<html
+  lang="ja"
+  dir="ltr"
+>
+  <head>
+    <meta charset="utf-8" />
+<meta name="language" content="en" />
+<meta name="viewport" content="width=device-width" />
+<title>
+    旧姓単記と選択的夫婦別姓についてのメモ | htby&#39;s garden
+</title>
+  <meta name="description" content="高市首相、少子化相と法相に「旧姓の単記」実現に向けた検討を指示…全閣僚には「外交力と防衛力の強化」など３分野 : 読売新聞 ニュースの背景 第2次高市内閣が発足し、首相が少子化相と法相に「旧氏の単記」実現に向けた検討を指示。現行制度では住民票や免許証への旧姓記載は戸籍上の姓との併記が必要で、旧姓のみの単記は認められていない。
+マイナンバーと住民票・戸籍の関係 マイナンバーは住民票をベースに付番される（戸籍ではない） 住民票のない在外日本人にはマイナンバーが付番されないのはこのため 戸籍は国籍・身分関係の記録であり、別制度 旧氏単記の問題点 「その姓をどう保証するか」問題 現行の旧姓併記では、住民票上に戸籍の姓と旧姓が両方記載されるので根拠が担保されている。単記になると戸籍上の姓が表に出ないため、「その旧姓が本当にこの人のものか」という証明の仕組みを別途作る必要がある。おそらくバックエンドのデータベースで戸籍と住民票を紐付けつつ、表示だけ単記にする設計になるが、詳細はこれから検討という段階。" />
+  <meta name="author" content="map[name:Yasuhiro Hatabe]" />
+<meta property="og:url" content="https://htby.github.io/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/">
+  <meta property="og:site_name" content="htby&#39;s garden">
+  <meta property="og:title" content="旧姓単記と選択的夫婦別姓についてのメモ">
+  <meta property="og:description" content="高市首相、少子化相と法相に「旧姓の単記」実現に向けた検討を指示…全閣僚には「外交力と防衛力の強化」など３分野 : 読売新聞 ニュースの背景 第2次高市内閣が発足し、首相が少子化相と法相に「旧氏の単記」実現に向けた検討を指示。現行制度では住民票や免許証への旧姓記載は戸籍上の姓との併記が必要で、旧姓のみの単記は認められていない。
+マイナンバーと住民票・戸籍の関係 マイナンバーは住民票をベースに付番される（戸籍ではない） 住民票のない在外日本人にはマイナンバーが付番されないのはこのため 戸籍は国籍・身分関係の記録であり、別制度 旧氏単記の問題点 「その姓をどう保証するか」問題 現行の旧姓併記では、住民票上に戸籍の姓と旧姓が両方記載されるので根拠が担保されている。単記になると戸籍上の姓が表に出ないため、「その旧姓が本当にこの人のものか」という証明の仕組みを別途作る必要がある。おそらくバックエンドのデータベースで戸籍と住民票を紐付けつつ、表示だけ単記にする設計になるが、詳細はこれから検討という段階。">
+  <meta property="og:locale" content="ja">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="notes">
+    <meta property="article:published_time" content="2026-02-19T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-02-19T00:00:00+00:00">
+    <meta property="og:image" content="https://htby.github.io/weblog/images/ogimage/washi1.jpg">
+
+
+  <meta itemprop="name" content="旧姓単記と選択的夫婦別姓についてのメモ">
+  <meta itemprop="description" content="高市首相、少子化相と法相に「旧姓の単記」実現に向けた検討を指示…全閣僚には「外交力と防衛力の強化」など３分野 : 読売新聞 ニュースの背景 第2次高市内閣が発足し、首相が少子化相と法相に「旧氏の単記」実現に向けた検討を指示。現行制度では住民票や免許証への旧姓記載は戸籍上の姓との併記が必要で、旧姓のみの単記は認められていない。
+マイナンバーと住民票・戸籍の関係 マイナンバーは住民票をベースに付番される（戸籍ではない） 住民票のない在外日本人にはマイナンバーが付番されないのはこのため 戸籍は国籍・身分関係の記録であり、別制度 旧氏単記の問題点 「その姓をどう保証するか」問題 現行の旧姓併記では、住民票上に戸籍の姓と旧姓が両方記載されるので根拠が担保されている。単記になると戸籍上の姓が表に出ないため、「その旧姓が本当にこの人のものか」という証明の仕組みを別途作る必要がある。おそらくバックエンドのデータベースで戸籍と住民票を紐付けつつ、表示だけ単記にする設計になるが、詳細はこれから検討という段階。">
+  <meta itemprop="datePublished" content="2026-02-19T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2026-02-19T00:00:00+00:00">
+  <meta itemprop="wordCount" content="22">
+  <meta itemprop="image" content="https://htby.github.io/weblog/images/ogimage/washi1.jpg">
+  <meta itemprop="keywords" content="夫婦別姓">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://htby.github.io/weblog/images/ogimage/washi1.jpg">
+  <meta name="twitter:title" content="旧姓単記と選択的夫婦別姓についてのメモ">
+  <meta name="twitter:description" content="高市首相、少子化相と法相に「旧姓の単記」実現に向けた検討を指示…全閣僚には「外交力と防衛力の強化」など３分野 : 読売新聞 ニュースの背景 第2次高市内閣が発足し、首相が少子化相と法相に「旧氏の単記」実現に向けた検討を指示。現行制度では住民票や免許証への旧姓記載は戸籍上の姓との併記が必要で、旧姓のみの単記は認められていない。
+マイナンバーと住民票・戸籍の関係 マイナンバーは住民票をベースに付番される（戸籍ではない） 住民票のない在外日本人にはマイナンバーが付番されないのはこのため 戸籍は国籍・身分関係の記録であり、別制度 旧氏単記の問題点 「その姓をどう保証するか」問題 現行の旧姓併記では、住民票上に戸籍の姓と旧姓が両方記載されるので根拠が担保されている。単記になると戸籍上の姓が表に出ないため、「その旧姓が本当にこの人のものか」という証明の仕組みを別途作る必要がある。おそらくバックエンドのデータベースで戸籍と住民票を紐付けつつ、表示だけ単記にする設計になるが、詳細はこれから検討という段階。">
+
+<link rel="canonical" href="https://htby.github.io/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/" />
+
+      <link
+        rel="stylesheet"
+        href="/weblog/css/index.min.02cc00ef9b3ae458f5cb05c0f4ea7f39d3f3212262170558d138610de894495a.css"
+        integrity="sha256-AswA75s65Fj1ywXA9Op/OdPzISJiFwVY0ThhDeiUSVo="
+        crossorigin="anonymous"
+      />
+
+
+      <script
+        src="/weblog/js/main.f556e964893941e2b344473133181a35dde403b3fc5dc505debd878b3c8c3a4d.js"
+        integrity="sha256-9VbpZIk5QeKzREcxMxgaNd3kA7P8XcUF3r2HizyMOk0="
+        crossorigin="anonymous"
+        defer
+      ></script>
+  
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-5NH117CD2L"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-5NH117CD2L');
+        }
+      </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@id": "https://htby.github.io/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/",
+  "@type": "BlogPosting",
+  "articleSection": [
+    "夫婦別姓"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Yasuhiro Hatabe",
+    "url": "https://htby.github.io/weblog/about/"
+  },
+  "copyrightNotice": "Yasuhiro Hatabe",
+  "datePublished": "2026-02-19",
+  "description": "高市首相、少子化相と法相に「旧姓の単記」実現に向けた検討を指示…全閣僚には「外交力と防衛力の強化」など３分野 : 読売新聞 ニュースの背景 第2次高市内閣が発足し、首相が少子化相と法相に「旧氏の単記」実現に向けた検討を指示。現行制度では住民票や免許証への旧姓記載は戸籍上の姓との併記が必要で、旧姓のみの単記は認められていない。\nマイナンバーと住民票・戸籍の関係 マイナンバーは住民票をベースに付番される（戸籍ではない） 住民票のない在外日本人にはマイナンバーが付番されないのはこのため 戸籍は国籍・身分関係の記録であり、別制度 旧氏単記の問題点 「その姓をどう保証するか」問題 現行の旧姓併記では、住民票上に戸籍の姓と旧姓が両方記載されるので根拠が担保されている。単記になると戸籍上の姓が表に出ないため、「その旧姓が本当にこの人のものか」という証明の仕組みを別途作る必要がある。おそらくバックエンドのデータベースで戸籍と住民票を紐付けつつ、表示だけ単記にする設計になるが、詳細はこれから検討という段階。",
+  "headline": "旧姓単記と選択的夫婦別姓についてのメモ",
+  "isPartOf": {
+    "@id": "https://htby.github.io/weblog/notes/",
+    "@type": "Blog",
+    "name": "Notes"
+  },
+  "mainEntityOfPage": "https://htby.github.io/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/",
+  "name": "旧姓単記と選択的夫婦別姓についてのメモ",
+  "timeRequired": "PT1M",
+  "url": "https://htby.github.io/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/",
+  "wordCount": 22
+}
+</script>
+
+<a rel="me" href="https://social.lol/@htby"></a>
+<meta name="fediverse:creator" content="@htby@social.lol">
+
+<link rel="stylesheet" href="/weblog/css/custom.css">
+
+  </head>
+  <body>
+    <div class="container mx-auto flex max-w-prose flex-col space-y-10 p-4 md:p-6">
+      <header class="flex flex-row items-center justify-between">
+        <div>
+  <a id="skip-nav" class="sr-only" href="#maincontent">Skip to main content</a>
+  <a class="font-semibold" href="/weblog/">htby&#39;s garden</a>
+</div>
+
+  <nav>
+    <ul class="flex flex-row items-center justify-end space-x-4">
+    <li>
+      <a href="/weblog/posts/">Posts</a
+      >
+    </li>
+    <li>
+      <a aria-current="true" class="ancestor" href="/weblog/notes/">Notes</a
+      >
+    </li>
+    <li>
+      <a href="/weblog/about/">About</a
+      >
+    </li>
+    </ul>
+  </nav>
+
+
+      </header>
+      <main class="prose prose-slate relative md:prose-lg prose-h1:text-[2em]" id="maincontent">
+        <article class="main">
+    <header>
+      <h1 class="!mb-1">旧姓単記と選択的夫婦別姓についてのメモ</h1><div class="flex flex-row items-center space-x-4">
+          <time class="text-sm italic opacity-80" datetime="2026-02-19T00:00:00&#43;00:00"
+            >February 19, 2026</time
+          >
+        </div>
+    </header>
+
+    <p><a href="https://www.yomiuri.co.jp/politics/20260219-GYT1T00285/" target="_blank" rel="noopener">高市首相、少子化相と法相に「旧姓の単記」実現に向けた検討を指示…全閣僚には「外交力と防衛力の強化」など３分野 : 読売新聞</a>
+</p>
+<h2 id="ニュースの背景" class="scroll-mt-8 group">
+  ニュースの背景
+  
+    <a href="#%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e3%81%ae%e8%83%8c%e6%99%af"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h2>
+<p>第2次高市内閣が発足し、首相が少子化相と法相に「旧氏の単記」実現に向けた検討を指示。現行制度では住民票や免許証への旧姓記載は戸籍上の姓との併記が必要で、旧姓のみの単記は認められていない。</p>
+<h2 id="マイナンバーと住民票戸籍の関係" class="scroll-mt-8 group">
+  マイナンバーと住民票・戸籍の関係
+  
+    <a href="#%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc%e3%81%a8%e4%bd%8f%e6%b0%91%e7%a5%a8%e6%88%b8%e7%b1%8d%e3%81%ae%e9%96%a2%e4%bf%82"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h2>
+<ul>
+<li>マイナンバーは住民票をベースに付番される（戸籍ではない）</li>
+<li>住民票のない在外日本人にはマイナンバーが付番されないのはこのため</li>
+<li>戸籍は国籍・身分関係の記録であり、別制度</li>
+</ul>
+<h2 id="旧氏単記の問題点" class="scroll-mt-8 group">
+  旧氏単記の問題点
+  
+    <a href="#%e6%97%a7%e6%b0%8f%e5%8d%98%e8%a8%98%e3%81%ae%e5%95%8f%e9%a1%8c%e7%82%b9"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h2>
+<h3 id="その姓をどう保証するか問題" class="scroll-mt-8 group">
+  「その姓をどう保証するか」問題
+  
+    <a href="#%e3%81%9d%e3%81%ae%e5%a7%93%e3%82%92%e3%81%a9%e3%81%86%e4%bf%9d%e8%a8%bc%e3%81%99%e3%82%8b%e3%81%8b%e5%95%8f%e9%a1%8c"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h3>
+<p>現行の旧姓併記では、住民票上に戸籍の姓と旧姓が両方記載されるので根拠が担保されている。単記になると戸籍上の姓が表に出ないため、「その旧姓が本当にこの人のものか」という証明の仕組みを別途作る必要がある。おそらくバックエンドのデータベースで戸籍と住民票を紐付けつつ、表示だけ単記にする設計になるが、詳細はこれから検討という段階。</p>
+<h3 id="制度的な乖離の問題" class="scroll-mt-8 group">
+  制度的な乖離の問題
+  
+    <a href="#%e5%88%b6%e5%ba%a6%e7%9a%84%e3%81%aa%e4%b9%96%e9%9b%a2%e3%81%ae%e5%95%8f%e9%a1%8c"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h3>
+<ul>
+<li>戸籍：婚姻後の姓XX</li>
+<li>住民票・各種書類：旧姓YY（単記）</li>
+</ul>
+<p>という二重状態が生まれる。相続・契約など法的効力が戸籍の姓に基づく場面では、単記の旧姓と戸籍の紐付けを都度証明する必要が生じる可能性があり、「旧姓使用者であることの証明」という手間が形を変えて残る。</p>
+<h2 id="選択的夫婦別姓との比較" class="scroll-mt-8 group">
+  選択的夫婦別姓との比較
+  
+    <a href="#%e9%81%b8%e6%8a%9e%e7%9a%84%e5%a4%ab%e5%a9%a6%e5%88%a5%e5%a7%93%e3%81%a8%e3%81%ae%e6%af%94%e8%bc%83"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h2>
+<p>選択的夫婦別姓なら、結婚しても戸籍上の姓が変わらない人が出てくるので、そもそも「旧姓をどう証明するか」という問題が発生しない。必要な法改正は民法750条とシステム改修程度で、制度設計としてはずっとシンプル。</p>
+<p>旧氏単記が複雑になる理由は「戸籍上の姓とは別の姓を公的書類に載せる」という制度の建付けに反することを無理やりやろうとしているから。これは「別姓は認めないが、別姓と同じ利便性は提供したい」という政治的妥協の産物であり、二重の複雑さは構造的に避けられない。</p>
+<h2 id="まとめ" class="scroll-mt-8 group">
+  まとめ
+  
+    <a href="#%e3%81%be%e3%81%a8%e3%82%81"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h2>
+<p>選択的夫婦別姓を避けたいがために、より面倒な制度を作ろうとしている、というのが実態。戸籍制度には手をつけずに済むという政治的メリットはあるが、利便性の改善としては根本解決にならない可能性が高い。</p>
+<p>※Claude（AI）との対話を基に作成</p>
+
+  </article>
+    <aside class="not-prose flex flex-col space-y-8 border-t pt-6">
+    <section class="flex flex-col space-y-4">
+      <h2 class="flex flex-row items-center space-x-2 text-lg font-semibold">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-shapes h-4 w-4"
+  viewBox="0 0 24 24"
+  aria-hidden="true"
+>
+  <path
+    d="M8.3 10a.7.7 0 0 1-.626-1.079L11.4 3a.7.7 0 0 1 1.198-.043L16.3 8.9a.7.7 0 0 1-.572 1.1Z"
+  />
+  <rect width="7" height="7" x="3" y="14" rx="1" />
+  <circle cx="17.5" cy="17.5" r="3.5" />
+</svg>
+
+        <span>Categories</span>
+      </h2>
+
+      <ul class="ml-6 flex flex-row flex-wrap items-center space-x-2">
+          <li>
+            <a href="/weblog/categories/%E5%A4%AB%E5%A9%A6%E5%88%A5%E5%A7%93/" class="taxonomy category">夫婦別姓</a>
+          </li>
+      </ul>
+    </section>
+    <section class="flex flex-col space-y-4" aria-hidden="true">
+      <h2 class="flex flex-row items-center space-x-2 text-lg font-semibold">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-chart-network h-4 w-4"
+  viewBox="0 0 24 24"
+  aria-hidden="true"
+>
+  <path
+    d="m13.11 7.664 1.78 2.672M14.162 12.788l-3.324 1.424M20 4l-6.06 1.515M3 3v16a2 2 0 0 0 2 2h16"
+  />
+  <circle cx="12" cy="6" r="2" />
+  <circle cx="16" cy="12" r="2" />
+  <circle cx="9" cy="15" r="2" />
+</svg>
+
+        <span>Graph</span>
+      </h2>
+
+      <content-network-graph
+  class="h-64 ml-6"
+  data-endpoint="/weblog/graph/index.json"
+  page="/weblog/notes/maiden-name-only-and-optional-separate-surnames-for-married-couples/"
+></content-network-graph>
+
+    </section>
+</aside>
+
+
+      </main>
+      <footer class="mt-20 border-t border-neutral-100 pt-2 text-xs">
+        <section class="items-top flex flex-row justify-between opacity-70">
+  <div class="flex flex-col space-y-2">
+      <p>Copyright &copy; 2026, Yasuhiro Hatabe.</p>
+
+  </div>
+    <div>
+      <a
+        href="https://github.com/michenriksen/hugo-theme-til"
+        title="Today I Learned &#8212; A Hugo theme by Michael Henriksen"
+        data-theme-version="0.6.0"
+        >theme: til</a
+      >
+    </div>
+</section>
+
+      </footer>
+    </div>
+    
+  </body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>時節 on htby&#39;s garden</title>
+    <link>https://htby.github.io/weblog/categories/%E6%99%82%E7%AF%80/</link>
+    <description>Recent content in 時節 on htby&#39;s garden</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>Yasuhiro Hatabe</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://htby.github.io/weblog/categories/%E6%99%82%E7%AF%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年の正月、桐がいない</title>
+      <link>https://htby.github.io/weblog/posts/new-years-day-2025-kiri-is-not-there/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://htby.github.io/weblog/posts/new-years-day-2025-kiri-is-not-there/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024年の初詣は江戸前エルフにちなんで住吉神社へ</title>
+      <link>https://htby.github.io/weblog/posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://htby.github.io/weblog/posts/first-visit-of-the-year-2024-to-sumiyoshi-shrine-the-inspiration-for-edomae-elf/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

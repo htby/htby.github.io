@@ -3,13 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/weblog/categories/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/posts/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/posts/test/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/categories/%E4%BB%95%E4%BA%8B/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/posts/10-years-since-opening/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
@@ -87,9 +96,6 @@
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/weblog/categories/%E4%BB%95%E4%BA%8B/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/posts/fabcross-and-fabcross-for-engineers-sites-closed/</loc>
