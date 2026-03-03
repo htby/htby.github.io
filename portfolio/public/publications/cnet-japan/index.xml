@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNET Japan on 畑邊康浩の仕事</title>
+    <link>http://localhost:1313/publications/cnet-japan/</link>
+    <description>Recent content in CNET Japan on 畑邊康浩の仕事</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/cnet-japan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ビズリーチ主催のハッカソンに海外学生エンジニアが集結--優勝賞金1万ドルは誰の手に？</title>
+      <link>http://localhost:1313/works/0106/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0106/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
