@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="filters">
+  <div class="filter-group">
+    <span class="filter-label">媒体：</span>
+    <a class="tag active" data-filter="pub" data-value="all" href="#">すべて</a>
+    {{ range .Site.Taxonomies.publications.Alphabetical }}
+    <a class="tag" data-filter="pub" data-value="{{ .Page.Title | urlize }}" href="#">{{ .Page.Title }}</a>
+    {{ end }}
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">タグ：</span>
+    <a class="tag active" data-filter="tag" data-value="all" href="#">すべて</a>
+    {{ range .Site.Taxonomies.tags.Alphabetical }}
+    <a class="tag" data-filter="tag" data-value="{{ .Page.Title | urlize }}" href="#">{{ .Page.Title }}</a>
+    {{ end }}
+  </div>
+</div>
+
+<div class="grid" id="grid">
+  {{ range .Site.Taxonomies.publications.Alphabetical }}
+  {{ $pub := . }}
+  <div class="publication" data-pub="{{ .Page.Title | urlize }}">
+    <div class="publication-name">{{ .Page.Title }}</div>
+    <ul class="article-list">
+      {{ range $pub.Pages }}
+      <li data-tags="{{ range .Params.tags }}{{ . | urlize }} {{ end }}">
+        <a href="{{ .Params.external_url }}" target="_blank" rel="noopener">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+</div>
+
+<script>
+let activePub = 'all';
+let activeTag = 'all';
+
+function applyFilters() {
+  document.querySelectorAll('.publication').forEach(pub => {
+    const pubMatch = activePub === 'all' || pub.dataset.pub === activePub;
+    if (!pubMatch) { pub.classList.add('hidden'); return; }
+    pub.classList.remove('hidden');
+    let visibleCount = 0;
+    pub.querySelectorAll('.article-list li').forEach(item => {
+      const tags = (item.dataset.tags || '').trim().split(/\s+/);
+      const tagMatch = activeTag === 'all' || tags.includes(activeTag);
+      item.classList.toggle('hidden', !tagMatch);
+      if (tagMatch) visibleCount++;
+    });
+    if (visibleCount === 0) pub.classList.add('hidden');
+  });
+}
+
+document.querySelectorAll('.tag').forEach(tag => {
+  tag.addEventListener('click', e => {
+    e.preventDefault();
+    const type = tag.dataset.filter;
+    const val = tag.dataset.value;
+    document.querySelectorAll(`.tag[data-filter="${type}"]`).forEach(t => t.classList.remove('active'));
+    tag.classList.add('active');
+    if (type === 'pub') activePub = val;
+    if (type === 'tag') activeTag = val;
+    applyFilters();
+  });
+});
+</script>
+{{ end }}

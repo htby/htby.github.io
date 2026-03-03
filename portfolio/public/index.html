@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta name="generator" content="Hugo 0.156.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>畑邊康浩の仕事 | 畑邊康浩の仕事</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <h1><a href="/">畑邊康浩の仕事</a></h1>
+    <p>フリーランスで編集したり文章を書いたりしています。</p>
+  </div>
+</header>
+<main>
+  
+<div class="filters">
+  <div class="filter-group">
+    <span class="filter-label">媒体：</span>
+    <a class="tag active" data-filter="pub" data-value="all" href="#">すべて</a>
+    
+    <a class="tag" data-filter="pub" data-value="mit%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC" href="#">MITテクノロジーレビュー</a>
+    
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">タグ：</span>
+    <a class="tag active" data-filter="tag" data-value="all" href="#">すべて</a>
+    
+    <a class="tag" data-filter="tag" data-value="%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF" href="#">量子コンピュータ</a>
+    
+  </div>
+</div>
+
+<div class="grid" id="grid">
+  
+  
+  <div class="publication" data-pub="mit%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC">
+    <div class="publication-name">MITテクノロジーレビュー</div>
+    <ul class="article-list">
+      
+      <li data-tags="%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF ">
+        <a href="https://www.technologyreview.jp/s/373014/trajectory-of-u35-innovators-shuntaro-takeda/" target="_blank" rel="noopener">武田俊太郎：日本発の光技術で世界の量子計算レースに挑む</a>
+      </li>
+      
+    </ul>
+  </div>
+  
+</div>
+
+<script>
+let activePub = 'all';
+let activeTag = 'all';
+
+function applyFilters() {
+  document.querySelectorAll('.publication').forEach(pub => {
+    const pubMatch = activePub === 'all' || pub.dataset.pub === activePub;
+    if (!pubMatch) { pub.classList.add('hidden'); return; }
+    pub.classList.remove('hidden');
+    let visibleCount = 0;
+    pub.querySelectorAll('.article-list li').forEach(item => {
+      const tags = (item.dataset.tags || '').trim().split(/\s+/);
+      const tagMatch = activeTag === 'all' || tags.includes(activeTag);
+      item.classList.toggle('hidden', !tagMatch);
+      if (tagMatch) visibleCount++;
+    });
+    if (visibleCount === 0) pub.classList.add('hidden');
+  });
+}
+
+document.querySelectorAll('.tag').forEach(tag => {
+  tag.addEventListener('click', e => {
+    e.preventDefault();
+    const type = tag.dataset.filter;
+    const val = tag.dataset.value;
+    document.querySelectorAll(`.tag[data-filter="${type}"]`).forEach(t => t.classList.remove('active'));
+    tag.classList.add('active');
+    if (type === 'pub') activePub = val;
+    if (type === 'tag') activeTag = val;
+    applyFilters();
+  });
+});
+</script>
+
+</main>
+<footer>
+  <div class="footer-inner">
+    <p>&copy; 畑邊康浩</p>
+  </div>
+</footer>
+</body>
+</html>

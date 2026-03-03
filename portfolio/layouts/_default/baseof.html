@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ .Title }} | 畑邊康浩の仕事</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <h1><a href="/">畑邊康浩の仕事</a></h1>
+    <p>フリーランスで編集したり文章を書いたりしています。</p>
+  </div>
+</header>
+<main>
+  {{ block "main" . }}{{ end }}
+</main>
+<footer>
+  <div class="footer-inner">
+    <p>&copy; 畑邊康浩</p>
+  </div>
+</footer>
+</body>
+</html>

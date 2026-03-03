@@ -32,13 +32,13 @@ jobs:
       - name: Build weblog
         run: cd weblog && hugo --minify --destination ../public/weblog
 
-      - name: Copy root files
+      - name: Build portfolio
+        run: cd portfolio && hugo --minify --destination ../public
+
+      - name: Copy static files
         run: |
-          cp index.html public/
-          cp stylesheet.css public/
-          cp htbyprof.png public/
-          cp README.md public/
           cp .nojekyll public/
+          cp README.md public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

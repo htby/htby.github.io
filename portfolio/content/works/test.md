@@ -1,0 +1,8 @@
++++
+title = '武田俊太郎：日本発の光技術で世界の量子計算レースに挑む'
+date = '2025-12-17'
+draft = false
+external_url = 'https://www.technologyreview.jp/s/373014/trajectory-of-u35-innovators-shuntaro-takeda/'
+publications = ['MITテクノロジーレビュー']
+tags = ['量子コンピュータ']
++++

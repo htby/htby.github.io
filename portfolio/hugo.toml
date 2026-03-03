@@ -1,0 +1,7 @@
+baseURL = 'https://htby.github.io/'
+languageCode = 'ja'
+title = '畑邊康浩の仕事'
+
+[taxonomies]
+  publication = 'publications'
+  tag = 'tags'
