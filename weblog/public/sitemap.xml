@@ -11,9 +11,6 @@
     <loc>http://localhost:1313/weblog/posts/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/weblog/posts/test/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/weblog/categories/%E4%BB%95%E4%BA%8B/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,6 +50,9 @@
     <loc>http://localhost:1313/weblog/posts/writing-example-university-of-tokyo-campus-newsletter-no1599/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weblog/posts/reading-notes-depopulation-business/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/weblog/posts/they-have-aged-well-and-become-good-actors/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,11 +86,17 @@
     <loc>http://localhost:1313/weblog/posts/memories-of-kiri/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/weblog/posts/reading-notes-take-notes/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/weblog/categories/%E6%98%A0%E7%94%BB/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/posts/i-watched-the-movie-twilight-of-the-warriors-walled-in/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weblog/posts/reading-notes-depopulation-business-1/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/weblog/categories/fabcross/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>

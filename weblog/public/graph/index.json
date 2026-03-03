@@ -235,11 +235,19 @@
       "in": [],
       "out": []
     },
-    "/weblog/posts/tanaka-atsuko-has-passed-away/": {
+    "/weblog/posts/reading-notes-depopulation-business-1/": {
       "in": [],
       "out": []
     },
-    "/weblog/posts/test/": {
+    "/weblog/posts/reading-notes-depopulation-business/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/reading-notes-take-notes/": {
+      "in": [],
+      "out": []
+    },
+    "/weblog/posts/tanaka-atsuko-has-passed-away/": {
       "in": [],
       "out": []
     },
@@ -504,15 +512,25 @@
       "section": "posts",
       "title": "おじさんとかおばさんとか"
     },
+    "/weblog/posts/reading-notes-depopulation-business-1/": {
+      "permalink": "/weblog/posts/reading-notes-depopulation-business-1/",
+      "section": "posts",
+      "title": "『カウンターエリート』を読んだ"
+    },
+    "/weblog/posts/reading-notes-depopulation-business/": {
+      "permalink": "/weblog/posts/reading-notes-depopulation-business/",
+      "section": "posts",
+      "title": "『過疎ビジネス』を読んだ"
+    },
+    "/weblog/posts/reading-notes-take-notes/": {
+      "permalink": "/weblog/posts/reading-notes-take-notes/",
+      "section": "posts",
+      "title": "『TAKE NOTES!――メモで、あなただけのアウトプットが自然にできるようになる』を読んだ"
+    },
     "/weblog/posts/tanaka-atsuko-has-passed-away/": {
       "permalink": "/weblog/posts/tanaka-atsuko-has-passed-away/",
       "section": "posts",
       "title": "田中敦子さんが逝ってしまった"
-    },
-    "/weblog/posts/test/": {
-      "permalink": "/weblog/posts/test/",
-      "section": "posts",
-      "title": "テスト投稿j"
     },
     "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/": {
       "permalink": "/weblog/posts/the-death-of-hinako-ashihara-manga-artist-of-sexy-tanaka-san/",
