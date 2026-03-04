@@ -1,5 +1,7 @@
+html { font-size: 16px; }
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; background: #fff; color: #222; font-size: 14px; line-height: 1.5; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; background: #fff; color: #222; font-size: 50px; line-height: 1.5; }
 
 /* サイト全体のラッパー */
 .site-wrapper { max-width: calc(860px + 4rem); }

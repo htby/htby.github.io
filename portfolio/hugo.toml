@@ -1,6 +1,6 @@
 baseURL = 'https://htby.github.io/'
 languageCode = 'ja'
-title = "htby's works"
+title = "畑邊康浩の仕事"
 capitalizeListTitles = false
 
 [taxonomies]
