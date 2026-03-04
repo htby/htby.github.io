@@ -1226,6 +1226,10 @@
 
   
   
+
+  
+  
+  
   <div class="year-group" data-year="2026">
     <h2 class="year-heading">2026</h2>
     
@@ -2114,6 +2118,7 @@
       
     
   </div>
+  
   
   
   <div class="year-group" data-year="2025">
@@ -3486,7 +3491,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2024">
+  
+  <div class="year-group old-year hidden" data-year="2024">
     <h2 class="year-heading">2024</h2>
     
       
@@ -4506,7 +4512,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2023">
+  
+  <div class="year-group old-year hidden" data-year="2023">
     <h2 class="year-heading">2023</h2>
     
       
@@ -5586,7 +5593,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2022">
+  
+  <div class="year-group old-year hidden" data-year="2022">
     <h2 class="year-heading">2022</h2>
     
       
@@ -6576,7 +6584,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2021">
+  
+  <div class="year-group old-year hidden" data-year="2021">
     <h2 class="year-heading">2021</h2>
     
       
@@ -7686,7 +7695,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2020">
+  
+  <div class="year-group old-year hidden" data-year="2020">
     <h2 class="year-heading">2020</h2>
     
       
@@ -8736,7 +8746,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2019">
+  
+  <div class="year-group old-year hidden" data-year="2019">
     <h2 class="year-heading">2019</h2>
     
       
@@ -9746,7 +9757,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2018">
+  
+  <div class="year-group old-year hidden" data-year="2018">
     <h2 class="year-heading">2018</h2>
     
       
@@ -10916,7 +10928,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2017">
+  
+  <div class="year-group old-year hidden" data-year="2017">
     <h2 class="year-heading">2017</h2>
     
       
@@ -11936,7 +11949,8 @@
   </div>
   
   
-  <div class="year-group" data-year="2016">
+  
+  <div class="year-group old-year hidden" data-year="2016">
     <h2 class="year-heading">2016</h2>
     
       
@@ -12717,6 +12731,10 @@
   
 </div>
 
+<div class="show-more-wrap">
+  <button class="show-more-btn" id="showMoreBtn">過去の記事を表示</button>
+</div>
+
 <script>
 let activePub = 'all';
 let activeTag = 'all';
@@ -12747,6 +12765,11 @@ document.querySelectorAll('.tag').forEach(tag => {
     if (type === 'tag') activeTag = val;
     applyFilters();
   });
+});
+document.getElementById('showMoreBtn').addEventListener('click', function() {
+  document.querySelectorAll('.old-year').forEach(el => el.classList.remove('hidden'));
+  this.parentElement.style.display = 'none';
+  applyFilters();
 });
 </script>
 

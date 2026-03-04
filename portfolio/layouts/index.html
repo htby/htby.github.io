@@ -40,9 +40,13 @@
     {{ end }}
   {{ end }}
 
+  {{ $currentYear := now.Format "2006" | int }}
+  {{ $thresholdYear := sub $currentYear 2 }}
+
   {{ range $years }}
   {{ $year := . }}
-  <div class="year-group" data-year="{{ $year }}">
+  {{ $isOld := le ($year | int) $thresholdYear }}
+  <div class="year-group{{ if $isOld }} old-year hidden{{ end }}" data-year="{{ $year }}">
     <h2 class="year-heading">{{ $year }}</h2>
     {{ range $allPages }}
       {{ if eq (.Date.Format "2006") $year }}
@@ -59,6 +63,10 @@
     {{ end }}
   </div>
   {{ end }}
+</div>
+
+<div class="show-more-wrap">
+  <button class="show-more-btn" id="showMoreBtn">過去の記事を表示</button>
 </div>
 
 <script>
@@ -91,6 +99,11 @@ document.querySelectorAll('.tag').forEach(tag => {
     if (type === 'tag') activeTag = val;
     applyFilters();
   });
+});
+document.getElementById('showMoreBtn').addEventListener('click', function() {
+  document.querySelectorAll('.old-year').forEach(el => el.classList.remove('hidden'));
+  this.parentElement.style.display = 'none';
+  applyFilters();
 });
 </script>
 {{ end }}
