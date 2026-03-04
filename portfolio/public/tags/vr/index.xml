@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR on 畑邊康浩の仕事</title>
+    <link>http://localhost:1313/tags/vr/</link>
+    <description>Recent content in VR on 畑邊康浩の仕事</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 25 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VRは外科手術の何を変えるのか？</title>
+      <link>http://localhost:1313/works/0008/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0008/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

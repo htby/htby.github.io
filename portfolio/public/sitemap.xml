@@ -20,6 +20,12 @@
     <loc>http://localhost:1313/works/0356/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/it/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publications/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9&#43;it/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,11 +35,17 @@
     <loc>http://localhost:1313/works/0353/</loc>
     <lastmod>2026-02-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/iu35/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publications/mit%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E6%97%A5%E6%9C%AC%E7%89%88/</loc>
     <lastmod>2026-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0354/</loc>
     <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/ascii.jp/</loc>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/jstnews/</loc>
     <lastmod>2026-02-18T00:00:00+00:00</lastmod>
@@ -44,6 +56,9 @@
     <loc>http://localhost:1313/works/0351/</loc>
     <lastmod>2026-02-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2026-02-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0350/</loc>
     <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -52,6 +67,9 @@
   </url><url>
     <loc>http://localhost:1313/works/0348/</loc>
     <lastmod>2026-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/0342/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0347/</loc>
     <lastmod>2026-01-22T00:00:00+00:00</lastmod>
@@ -68,9 +86,6 @@
     <loc>http://localhost:1313/works/0343/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0342/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/works/0341/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -79,6 +94,9 @@
   </url><url>
     <loc>http://localhost:1313/works/0339/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/0331/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0338/</loc>
     <lastmod>2025-12-17T00:00:00+00:00</lastmod>
@@ -98,11 +116,11 @@
     <loc>http://localhost:1313/works/0333/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0331/</loc>
-    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/works/0332/</loc>
     <lastmod>2025-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/0320/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0329/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
@@ -140,20 +158,23 @@
     <loc>http://localhost:1313/works/0319/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0320/</loc>
-    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/works/0317/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/0315/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0316/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0315/</loc>
-    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/works/0314/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/0310/</loc>
+    <lastmod>2025-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0313/</loc>
     <lastmod>2025-09-17T00:00:00+00:00</lastmod>
@@ -164,14 +185,17 @@
     <loc>http://localhost:1313/works/0311/</loc>
     <lastmod>2025-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0310/</loc>
-    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/works/0309/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/works/0303/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0308/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/it%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0307/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
@@ -185,14 +209,11 @@
     <loc>http://localhost:1313/works/0304/</loc>
     <lastmod>2025-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0303/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/works/0301/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0302/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/works/0301/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/finders/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
@@ -200,11 +221,17 @@
     <loc>http://localhost:1313/works/0300/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/0298/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0299/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0298/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/works/0293/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0297/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
@@ -215,19 +242,22 @@
     <loc>http://localhost:1313/publications/seizo-trend/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A/</loc>
+    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0295/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0294/</loc>
     <lastmod>2025-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/0293/</loc>
-    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/works/0292/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0291/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0290/</loc>
@@ -242,6 +272,9 @@
     <loc>http://localhost:1313/works/0288/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E7%B5%8C%E5%96%B6/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0287/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -249,6 +282,9 @@
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0285/</loc>
+    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/ai%E7%99%BD%E6%9B%B8/</loc>
@@ -265,6 +301,9 @@
   </url><url>
     <loc>http://localhost:1313/works/0281/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fintech/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0280/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
@@ -299,6 +338,9 @@
     <loc>http://localhost:1313/works/0270/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E5%B8%82%E5%A0%B4%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0269/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -320,6 +362,9 @@
     <loc>http://localhost:1313/works/0263/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB/</loc>
+    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0262/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -329,10 +374,16 @@
     <loc>http://localhost:1313/works/0261/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E8%87%AA%E8%BB%A2%E8%BB%8A/</loc>
+    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0260/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0259/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%B5%84%E7%B9%94%E9%96%8B%E7%99%BA/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0257/</loc>
@@ -345,6 +396,9 @@
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0255/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0254/</loc>
@@ -401,9 +455,6 @@
     <loc>http://localhost:1313/works/0237/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/ascii.jp/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/works/0236/</loc>
     <lastmod>2023-09-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -427,6 +478,9 @@
   </url><url>
     <loc>http://localhost:1313/works/0229/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%87%E3%83%BC%E3%82%BF/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0228/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
@@ -485,6 +539,9 @@
     <loc>http://localhost:1313/works/0211/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E4%BA%BA%E6%9D%90%E6%8E%A1%E7%94%A8/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0212/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -536,6 +593,9 @@
     <loc>http://localhost:1313/works/0195/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E5%AE%87%E5%AE%99/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0194/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -575,6 +635,9 @@
     <loc>http://localhost:1313/works/0182/</loc>
     <lastmod>2021-12-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0181/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -604,6 +667,9 @@
   </url><url>
     <loc>http://localhost:1313/works/0172/</loc>
     <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dx/</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0171/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
@@ -713,6 +779,9 @@
     <loc>http://localhost:1313/works/0137/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E9%87%8F%E5%AD%90/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0135/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -743,6 +812,9 @@
     <loc>http://localhost:1313/works/0127/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E6%96%87%E5%8C%96/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0126/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -764,6 +836,9 @@
     <loc>http://localhost:1313/works/0120/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E9%98%B2%E7%81%BD/</loc>
+    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0119/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -774,6 +849,9 @@
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0116/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E4%B8%AD%E5%9B%BD/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0115/</loc>
@@ -795,6 +873,9 @@
     <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0110/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%84%B3/</loc>
     <lastmod>2019-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0108/</loc>
@@ -834,6 +915,12 @@
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0097/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%90%E3%82%A4%E3%82%AA/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0096/</loc>
@@ -876,6 +963,9 @@
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0083/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0082/</loc>
@@ -977,6 +1067,9 @@
     <loc>http://localhost:1313/works/0052/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E5%BB%BA%E8%A8%AD/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publications/%E6%96%BD%E5%B7%A5%E3%81%AE%E7%A5%9E%E6%A7%98/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -999,6 +1092,9 @@
     <lastmod>2018-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0044/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E4%BC%9A%E8%A8%88/</loc>
     <lastmod>2018-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0043/</loc>
@@ -1030,6 +1126,9 @@
   </url><url>
     <loc>http://localhost:1313/works/0034/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hrtech/</loc>
+    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0033/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
@@ -1064,11 +1163,17 @@
     <loc>http://localhost:1313/works/0022/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0023/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0021/</loc>
     <lastmod>2017-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/iot/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0020/</loc>
     <lastmod>2017-07-24T00:00:00+00:00</lastmod>
@@ -1080,6 +1185,9 @@
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0018/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/0017/</loc>
@@ -1109,6 +1217,9 @@
     <loc>http://localhost:1313/works/0009/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/vr/</loc>
+    <lastmod>2017-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/works/0008/</loc>
     <lastmod>2017-01-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -1137,7 +1248,5 @@
     <lastmod>2016-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/profile/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

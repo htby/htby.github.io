@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>マーケティング on 畑邊康浩の仕事</title>
+    <link>http://localhost:1313/tags/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in マーケティング on 畑邊康浩の仕事</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【トレンド研究】日本発、グローバルスタンダードを狙える新市場「リテールメディア」とは</title>
+      <link>http://localhost:1313/works/0255/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0255/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>「KPIは、UGC発生率」SNS解析企業が明かす、Twitterを活用したビジネスグロース手法</title>
+      <link>http://localhost:1313/works/0084/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0084/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ferretで劇的に成果を上げた、オウンドメディア経由のリードを成約に結びつける4つの組織改革</title>
+      <link>http://localhost:1313/works/0069/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0069/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

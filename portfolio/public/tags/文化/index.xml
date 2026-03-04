@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文化 on 畑邊康浩の仕事</title>
+    <link>http://localhost:1313/tags/%E6%96%87%E5%8C%96/</link>
+    <description>Recent content in 文化 on 畑邊康浩の仕事</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>個性を刺激し、競争心に火を付ける 世代を超えてファンを育てる「ミニ四駆」のメディア戦略</title>
+      <link>http://localhost:1313/works/0127/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0127/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>誕生から50年、「ドラえもん」がなぜ今も愛され続けるのか？コロナ禍でも人々を支えたキャラクターのビジネス展開を探る</title>
+      <link>http://localhost:1313/works/0125/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0125/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>前田建設ファンタジ—営業部が、「マジンガーZ INFINITY」とのコラボで業界内外に伝えたかったこと</title>
+      <link>http://localhost:1313/works/0052/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0052/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

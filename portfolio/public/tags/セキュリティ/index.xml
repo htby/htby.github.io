@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>セキュリティ on 畑邊康浩の仕事</title>
+    <link>http://localhost:1313/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
+    <description>Recent content in セキュリティ on 畑邊康浩の仕事</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ガートナー懸念するCopilot for M365の脆弱性「5要素」、安全活用のカギは？</title>
+      <link>http://localhost:1313/works/0285/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0285/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ガートナー流クラウド・セキュリティ「5つの超重要点」、CASBやCSPMどう組み合わせ？</title>
+      <link>http://localhost:1313/works/0278/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0278/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>【トレンド研究】大企業の8割が導入するパブリッククラウド。その裏に眠る巨大市場・クラウドセキュリティとは</title>
+      <link>http://localhost:1313/works/0257/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0257/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PwCジャパン、DX時代に向けたセキュリティ対策とコンサルティング企業の役割</title>
+      <link>http://localhost:1313/works/0144/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0144/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoTのセキュリティ対策をガートナーが解説、「困難だが不可能ではない」</title>
+      <link>http://localhost:1313/works/0020/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0020/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

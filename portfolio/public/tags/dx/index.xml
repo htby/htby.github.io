@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DX on 畑邊康浩の仕事</title>
+    <link>http://localhost:1313/tags/dx/</link>
+    <description>Recent content in DX on 畑邊康浩の仕事</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>選挙のインターネット投票は、いつできるようになるのか</title>
+      <link>http://localhost:1313/works/0171/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0171/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>霞が関DXの司令塔　デジタル庁が民間採用を本格始動−−民間企業はどう見るべきか</title>
+      <link>http://localhost:1313/works/0155/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0155/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自分が最強になれる場所に立つために、デジタルの力を借りる──澤円氏が語るDXの本質</title>
+      <link>http://localhost:1313/works/0149/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0149/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>インサイダーが課題山積の業界を変革する−−徳島発タクシー×DX「電脳交通」</title>
+      <link>http://localhost:1313/works/0143/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0143/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>国の方針・動きから読み解く「DX」でどこを目指すべきか</title>
+      <link>http://localhost:1313/works/0138/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0138/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

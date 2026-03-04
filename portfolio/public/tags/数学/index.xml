@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数学 on 畑邊康浩の仕事</title>
+    <link>http://localhost:1313/tags/%E6%95%B0%E5%AD%A6/</link>
+    <description>Recent content in 数学 on 畑邊康浩の仕事</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>企業の人事部門でも進むデータ活用。どんなことが分析できるの？</title>
+      <link>http://localhost:1313/works/0018/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>「スモールデータじゃダメなんですか？」市場調査・マーケティングリサーチの専門家に聞いてみた</title>
+      <link>http://localhost:1313/works/0009/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>大人が数学を学び直す時の「取っ掛かり」にオススメの3冊</title>
+      <link>http://localhost:1313/works/0007/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>選挙における若者の投票率は、日本の将来を左右するか？</title>
+      <link>http://localhost:1313/works/0005/</link>
+      <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>インドの魔術師・ラマヌジャンの映画の試写会に行ってきました</title>
+      <link>http://localhost:1313/works/0004/</link>
+      <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0004/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>「MECE」って何？ビジネスで活かす集合の考え方</title>
+      <link>http://localhost:1313/works/0003/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>文系の新社会人に捧ぐ！今こそ数学を学ぶべき3つの理由</title>
+      <link>http://localhost:1313/works/0002/</link>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0002/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
