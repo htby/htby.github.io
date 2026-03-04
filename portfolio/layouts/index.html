@@ -31,7 +31,7 @@
 </div>
 
 <div class="articles" id="grid">
-  {{ $allPages := .Site.RegularPages.ByDate.Reverse }}
+  {{ $allPages := (where .Site.RegularPages "Section" "works").ByDate.Reverse }}
   {{ $years := slice }}
   {{ range $allPages }}
     {{ $y := .Date.Format "2006" }}
