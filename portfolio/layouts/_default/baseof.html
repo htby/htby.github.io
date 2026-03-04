@@ -3,14 +3,29 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ .Title }} | 畑邊康浩の仕事</title>
+<title>htby's works</title>
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
+<div class="site-wrapper">
 <header>
   <div class="header-inner">
-    <h1><a href="/">畑邊康浩の仕事</a></h1>
-    <p>フリーランスで編集したり文章を書いたりしています。</p>
+    <div class="header-left">
+      <h1><a href="/">htby's works</a></h1>
+      <p class="header-desc">畑邊康浩（Yasuhiro Hatabe）。2016年1月からフリーランスの編集者・ライターとして仕事をしています。ここには私が編集を担当した記事＆書いた記事のうち名前を出せるものを置いてあります。</p>
+      <div class="social-links">
+        <span class="social-label">Follow me:</span>
+        <a href="https://social.lol/@htby" target="_blank" rel="noopener">Mastodon</a>
+        <span class="social-sep">·</span>
+        <a href="https://x.com/htby_bot?ref=ki-to-oku.net" target="_blank" rel="noopener">X</a>
+        <span class="social-sep">·</span>
+        <a href="https://www.linkedin.com/in/htby/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+    <div class="header-right">
+      <a href="/profile/">profile</a>
+      <a href="/weblog/">weblog</a>
+    </div>
   </div>
 </header>
 <main>
@@ -18,8 +33,9 @@
 </main>
 <footer>
   <div class="footer-inner">
-    <p>&copy; 畑邊康浩</p>
+    <p>Copyright &copy; {{ now.Format "2006" }}, Yasuhiro Hatabe.</p>
   </div>
 </footer>
+</div>
 </body>
 </html>

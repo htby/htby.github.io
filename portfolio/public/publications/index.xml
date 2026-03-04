@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on 畑邊康浩の仕事</title>
+    <title>publications on htby&#39;s works</title>
     <link>http://localhost:1313/publications/</link>
-    <description>Recent content in Publications on 畑邊康浩の仕事</description>
+    <description>Recent content in publications on htby&#39;s works</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
@@ -65,7 +65,7 @@
       <description></description>
     </item>
     <item>
-      <title>Fabcross</title>
+      <title>fabcross</title>
       <link>http://localhost:1313/publications/fabcross/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/fabcross/</guid>
@@ -128,7 +128,7 @@
       <description></description>
     </item>
     <item>
-      <title>ZUU Online</title>
+      <title>ZUU online</title>
       <link>http://localhost:1313/publications/zuu-online/</link>
       <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/zuu-online/</guid>

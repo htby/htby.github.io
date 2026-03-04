@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>畑邊康浩の仕事</title>
+    <title>htby&#39;s works</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 畑邊康浩の仕事</description>
+    <description>Recent content on htby&#39;s works</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
@@ -2506,6 +2506,13 @@
       <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/works/0001/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Profile</title>
+      <link>http://localhost:1313/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/profile/</guid>
+      <description>&lt;h3 id=&#34;畑邊康浩&#34;&gt;畑邊康浩&lt;/h3&gt;&#xA;&lt;p&gt;編集者・ライター。1974年、北海道・札幌生まれ。現在は東京・足立区在住。&lt;/p&gt;&#xA;&lt;p&gt;大学卒業後、印刷会社で版下フィニッシュのアルバイトを1年した後、語学系出版社へ入社、主に就職・転職ガイドブック（MOOK）の編集に丸8年携わりました。情報システム部へ異動となり、社内SEを2年ほど経験。その後、人材サービス会社へ転職し、転職情報サイトの編集に8年ほど従事しました。2016年1月から独立してフリーランスの編集者・ライターとして仕事をしています。&lt;/p&gt;&#xA;&lt;p&gt;Web・紙媒体問わず、編集全般（企画、ディレクション、取材、記事執筆）をやります。&lt;/p&gt;&#xA;&lt;p&gt;ここに載せている記事・コンテンツのほか、人材サービス企業の顧客向けメールマガジン、人材採用のための社員インタビュー記事、社内報などの制作・編集もしています。&lt;/p&gt;&#xA;&lt;p&gt;2025年11月から、記憶と記録に関するメディア&lt;a href=&#34;https://ki-to-oku.net/&#34;&gt;「記と憶 Ki to Oku」&lt;/a&gt;を運営しています。&lt;/p&gt;&#xA;&lt;p&gt;主な関心領域：キャリア・転職、働き方、人事・採用、人工知能（AI）とそれが変える労働・社会、企業IT、スタートアップ、海外就職、メディア論、デジタルマーケティング、ソーシャルメディア（SNS）など&lt;/p&gt;&#xA;&lt;p&gt;お仕事のご相談は&lt;a href=&#34;mailto:htby@textflood.net&#34;&gt;Eメール&lt;/a&gt;よりご連絡ください。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

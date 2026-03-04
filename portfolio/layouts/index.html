@@ -2,32 +2,61 @@
 <div class="filters">
   <div class="filter-group">
     <span class="filter-label">媒体：</span>
+    <div class="filter-tags">
     <a class="tag active" data-filter="pub" data-value="all" href="#">すべて</a>
-    {{ range .Site.Taxonomies.publications.Alphabetical }}
-    <a class="tag" data-filter="pub" data-value="{{ .Page.Title | urlize }}" href="#">{{ .Page.Title }}</a>
+    {{ $pubs := .Site.Taxonomies.publications }}
+    {{ $pubsSorted := slice }}
+    {{ range $pubs }}
+      {{ $pubsSorted = $pubsSorted | append (dict "term" . "latest" (index (.Pages.ByDate.Reverse) 0).Date) }}
     {{ end }}
+    {{ range sort $pubsSorted "latest" "desc" }}
+      <a class="tag" data-filter="pub" data-value="{{ .term.Page.Title | urlize }}" href="#">{{ .term.Page.Title }}</a>
+    {{ end }}
+    </div>
   </div>
   <div class="filter-group">
     <span class="filter-label">タグ：</span>
+    <div class="filter-tags">
     <a class="tag active" data-filter="tag" data-value="all" href="#">すべて</a>
-    {{ range .Site.Taxonomies.tags.Alphabetical }}
-    <a class="tag" data-filter="tag" data-value="{{ .Page.Title | urlize }}" href="#">{{ .Page.Title }}</a>
+    {{ $tags := .Site.Taxonomies.tags }}
+    {{ $tagsSorted := slice }}
+    {{ range $tags }}
+      {{ $tagsSorted = $tagsSorted | append (dict "term" . "latest" (index (.Pages.ByDate.Reverse) 0).Date) }}
     {{ end }}
+    {{ range sort $tagsSorted "latest" "desc" }}
+      <a class="tag" data-filter="tag" data-value="{{ .term.Page.Title | urlize }}" href="#">{{ .term.Page.Title }}</a>
+    {{ end }}
+    </div>
   </div>
 </div>
 
-<div class="grid" id="grid">
-  {{ range .Site.Taxonomies.publications.Alphabetical }}
-  {{ $pub := . }}
-  <div class="publication" data-pub="{{ .Page.Title | urlize }}">
-    <div class="publication-name">{{ .Page.Title }}</div>
-    <ul class="article-list">
-      {{ range $pub.Pages }}
-      <li data-tags="{{ range .Params.tags }}{{ . | urlize }} {{ end }}">
-        <a href="{{ .Params.external_url }}" target="_blank" rel="noopener">{{ .Title }}</a>
-      </li>
+<div class="articles" id="grid">
+  {{ $allPages := .Site.RegularPages.ByDate.Reverse }}
+  {{ $years := slice }}
+  {{ range $allPages }}
+    {{ $y := .Date.Format "2006" }}
+    {{ if not (in $years $y) }}
+      {{ $years = $years | append $y }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $years }}
+  {{ $year := . }}
+  <div class="year-group" data-year="{{ $year }}">
+    <h2 class="year-heading">{{ $year }}</h2>
+    {{ range $allPages }}
+      {{ if eq (.Date.Format "2006") $year }}
+      <div class="article-row"
+        data-pub="{{ range .Params.publications }}{{ . | urlize }} {{ end }}"
+        data-tags="{{ range .Params.tags }}{{ . | urlize }} {{ end }}">
+        <div class="article-left">
+          <span class="article-date">{{ .Date.Format "1/2" }}</span>
+          <a class="article-title" href="{{ .Params.external_url }}" target="_blank" rel="noopener">{{ .Title }}</a>
+        </div>
+        <div class="article-pub">{{ range .Params.publications }}{{ . }}{{ end }}</div>
+      </div>
       {{ end }}
-    </ul>
+    {{ end }}
   </div>
   {{ end }}
 </div>
@@ -37,18 +66,17 @@ let activePub = 'all';
 let activeTag = 'all';
 
 function applyFilters() {
-  document.querySelectorAll('.publication').forEach(pub => {
-    const pubMatch = activePub === 'all' || pub.dataset.pub === activePub;
-    if (!pubMatch) { pub.classList.add('hidden'); return; }
-    pub.classList.remove('hidden');
-    let visibleCount = 0;
-    pub.querySelectorAll('.article-list li').forEach(item => {
-      const tags = (item.dataset.tags || '').trim().split(/\s+/);
-      const tagMatch = activeTag === 'all' || tags.includes(activeTag);
-      item.classList.toggle('hidden', !tagMatch);
-      if (tagMatch) visibleCount++;
-    });
-    if (visibleCount === 0) pub.classList.add('hidden');
+  document.querySelectorAll('.article-row').forEach(row => {
+    const pubs = (row.dataset.pub || '').trim().split(/\s+/);
+    const tags = (row.dataset.tags || '').trim().split(/\s+/);
+    const pubMatch = activePub === 'all' || pubs.includes(activePub);
+    const tagMatch = activeTag === 'all' || tags.includes(activeTag);
+    row.classList.toggle('hidden', !pubMatch || !tagMatch);
+  });
+
+  document.querySelectorAll('.year-group').forEach(group => {
+    const visible = group.querySelectorAll('.article-row:not(.hidden)').length;
+    group.classList.toggle('hidden', visible === 0);
   });
 }
 
