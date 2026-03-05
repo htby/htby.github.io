@@ -139,3 +139,4 @@ footer p { font-size: 0.75rem; color: #999; }
 
 .single-title { font-size: 0.85rem; color: #999; margin-bottom: 1.5rem; }
 .single-content { font-size: 0.85rem; line-height: 1.8; }
+.single-content p { margin-bottom: 1rem; }
