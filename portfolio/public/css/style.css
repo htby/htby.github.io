@@ -135,3 +135,7 @@ footer p { font-size: 0.75rem; color: #999; }
   .header-right { padding-top: 0; }
   .article-pub { display: none; }
 }
+
+
+.single-title { font-size: 0.85rem; color: #999; margin-bottom: 1.5rem; }
+.single-content { font-size: 0.85rem; line-height: 1.8; }

@@ -55,7 +55,11 @@
         data-tags="{{ range .Params.tags }}{{ . | urlize }} {{ end }}">
         <div class="article-left">
           <span class="article-date">{{ .Date.Format "1/2" }}</span>
+          {{ if .Params.external_url }}
           <a class="article-title" href="{{ .Params.external_url }}" target="_blank" rel="noopener">{{ .Title }}</a>
+          {{ else }}
+          <a class="article-title" href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ end }}
         </div>
         <div class="article-pub">{{ range .Params.publications }}{{ . }}{{ end }}</div>
       </div>
