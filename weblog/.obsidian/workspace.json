@@ -11,10 +11,14 @@
             "id": "ec99e5d24b50928c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/i-also-moved-my-portfolio-to-github-pages-hugo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "i-also-moved-my-portfolio-to-github-pages-hugo"
             }
           }
         ]
@@ -177,5 +181,11 @@
     }
   },
   "active": "ec99e5d24b50928c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/posts/i-moved-my-weblog-to-github-pages-hugo.md",
+    "content/posts/i-also-moved-my-portfolio-to-github-pages-hugo.md",
+    "public/posts/i-also-moved-my-portfolio-to-github-pages-hugo/index.html",
+    "public/posts/i-also-moved-my-portfolio-to-github-pages-hugo",
+    "content/posts/10-years-since-opening.md"
+  ]
 }

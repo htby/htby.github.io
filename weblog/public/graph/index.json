@@ -70,8 +70,8 @@
     },
     "/weblog/posts/fabcross-20210924-weakrobot/": {
       "in": [
-        "/weblog/posts/hello-weak-robot-has-arrived/",
-        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/"
+        "/weblog/posts/a-collection-of-articles-i-wrote-on-fabcross/",
+        "/weblog/posts/hello-weak-robot-has-arrived/"
       ],
       "out": []
     },
@@ -145,8 +145,16 @@
         "/weblog/posts/fabcross-20210924-weakrobot/"
       ]
     },
-    "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/": {
+    "/weblog/posts/i-also-moved-my-portfolio-to-github-pages-hugo/": {
       "in": [],
+      "out": [
+        "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/"
+      ]
+    },
+    "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/": {
+      "in": [
+        "/weblog/posts/i-also-moved-my-portfolio-to-github-pages-hugo/"
+      ],
       "out": [
         "/weblog/posts/a-blog-that-will-remain-after-death/"
       ]
@@ -401,6 +409,11 @@
       "permalink": "/weblog/posts/hello-weak-robot-has-arrived/",
       "section": "posts",
       "title": "『こんにちは 弱いロボット』が届いた"
+    },
+    "/weblog/posts/i-also-moved-my-portfolio-to-github-pages-hugo/": {
+      "permalink": "/weblog/posts/i-also-moved-my-portfolio-to-github-pages-hugo/",
+      "section": "posts",
+      "title": "ポートフォリオもGithub Pages + Hugoに移行した"
     },
     "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/": {
       "permalink": "/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/",
