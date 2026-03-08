@@ -10,4 +10,6 @@ images = ["/weblog/images/ogimage/washi1.jpg"]
 
 これまで自分が書いた記事リンクをTumblrに置いてきたが、10年もやってると検索性も一覧性も悪くなってしまったし、Tumblrの仕様変更でLinkポストがきれいに表示されなくなってしまった。
 
-というわけで、[ブログ](/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/)に続いてポートフォリオもGitHub Pages + Hugoで[作り直した](https://htby.github.io/)。Hugoのタクソノミー機能が大活躍だが、私のタグ付けが中途半端なのでこれは追って作業します。
+というわけで、[ブログ](/weblog/posts/i-moved-my-weblog-to-github-pages-hugo/)に続いてポートフォリオもGitHub Pages + Hugoで[作り直した](https://htby.github.io/)。Tumblrには350件くらいデータがあったので、API経由でそれらをGoogleスプレッドシートに取り込んでmdファイル書き出したので、それほど手間かけずに移行作業も終えられた。
+
+Hugoのタクソノミー機能が大活躍だが、私のタグ付けが中途半端なのでこれは追って作業します。
