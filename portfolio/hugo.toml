@@ -2,6 +2,7 @@ baseURL = 'https://htby.github.io/'
 languageCode = 'ja'
 title = "畑邊康浩の仕事"
 capitalizeListTitles = false
+buildFuture = true
 
 [taxonomies]
   publication = 'publications'

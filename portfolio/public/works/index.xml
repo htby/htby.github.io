@@ -6,8 +6,15 @@
     <description>Recent content in works on 畑邊康浩の仕事</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>なぜ「Copilot」から機密情報ダダ漏れ…？ガートナー流「AI特有の抜け穴対策」大解説</title>
+      <link>http://localhost:1313/works/0362/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/0362/</guid>
+      <description></description>
+    </item>
     <item>
       <title>【ガートナー警鐘】企業が“ナメがち”な生成AI6大セキュリティリスク、放置すると…</title>
       <link>http://localhost:1313/works/0360/</link>
